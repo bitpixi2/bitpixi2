@@ -8,10 +8,8 @@ Senior UX Designer & Prompt Engineer. RISD/Tufts alum with 10+ years across UX, 
 
 <table align="center" width="92%">
   <tr>
-    <td><code>~ website</code></td>
+    <td><code>~ portfolio</code></td>
     <td><a href="https://bitpixi.com">bitpixi.com</a></td>
-  </tr>
-  <tr>
     <td><code>~ linkedin</code></td>
     <td><a href="https://linkedin.com/in/bitpixi">linkedin.com/in/bitpixi</a></td>
   </tr>
