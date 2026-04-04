@@ -8,14 +8,6 @@ Senior UX Designer & Prompt Engineer. RISD/Tufts alum with 10+ years across UX, 
 
 <table>
   <tr>
-    <td><code>~ base</code></td>
-    <td>Riddells Creek, Australia</td>
-  </tr>
-  <tr>
-    <td><code>~ company</code></td>
-    <td><a href="https://hackeroos.com.au">Hackeroos</a></td>
-  </tr>
-  <tr>
     <td><code>~ website</code></td>
     <td><a href="https://bitpixi.com">bitpixi.com</a></td>
   </tr>
@@ -26,7 +18,10 @@ Senior UX Designer & Prompt Engineer. RISD/Tufts alum with 10+ years across UX, 
 </table>
 
 <p align="center">
-  <img src="./assets/stickers/sticker-row.svg" alt="Cute focus stickers for agentic systems, worlds, community, and new econ." width="500" />
+  <picture>
+    <source media="(max-width: 600px)" srcset="./assets/stickers/sticker-row.svg" width="100%">
+    <img src="./assets/stickers/sticker-row.svg" alt="Cute focus stickers for agentic systems, worlds, community, and new econ." width="500" />
+  </picture>
 </p>
 
 <p align="center">
