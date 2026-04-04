@@ -1,6 +1,6 @@
 <svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">bitpixi profile banner</title>
-  <desc id="desc">A rose-toned banner with the text bitpixi, creative technologist, and decorative geometric shapes.</desc>
+  <desc id="desc">A rose-toned banner with the text bitpixi, creative technologist, and a quote panel.</desc>
   <defs>
     <linearGradient id="bg" x1="74" y1="24" x2="1134" y2="302" gradientUnits="userSpaceOnUse">
       <stop stop-color="#FFF8FA"/>
@@ -11,14 +11,7 @@
       <stop stop-color="#FFF8FA" stop-opacity="0.9"/>
       <stop offset="1" stop-color="#F5E1E8" stop-opacity="0.88"/>
     </linearGradient>
-    <linearGradient id="pill" x1="0" y1="0" x2="148" y2="44" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#F3DCE5"/>
-      <stop offset="1" stop-color="#EBC8D5"/>
-    </linearGradient>
-    <pattern id="dots" width="26" height="26" patternUnits="userSpaceOnUse">
-      <circle cx="2" cy="2" r="2" fill="#D8A9B9" fill-opacity="0.34"/>
-    </pattern>
-    <filter id="shadow" x="704" y="24" width="472" height="264" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+    <filter id="shadow" x="720" y="40" width="420" height="220" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
       <feDropShadow dx="0" dy="10" stdDeviation="18" flood-color="#A8647C" flood-opacity="0.18"/>
     </filter>
   </defs>
@@ -26,28 +19,10 @@
   <rect x="10" y="10" width="1180" height="300" rx="28" fill="url(#bg)"/>
   <rect x="10" y="10" width="1180" height="300" rx="28" stroke="#E5BCC9" stroke-width="1.5"/>
 
-  <circle cx="1038" cy="84" r="144" fill="#F4DEE6" fill-opacity="0.72"/>
-  <circle cx="1058" cy="94" r="104" stroke="#D7A2B4" stroke-opacity="0.7" stroke-width="1.5"/>
-  <circle cx="870" cy="272" r="96" fill="#F6E8ED" fill-opacity="0.82"/>
-  <rect x="886" y="48" width="242" height="212" rx="26" fill="url(#dots)" opacity="0.9"/>
-
-  <path d="M902 66C964 92 1012 150 1010 206" stroke="#B66C86" stroke-width="2.5" stroke-linecap="round" stroke-opacity="0.72"/>
-  <path d="M1018 84C1066 110 1100 150 1108 208" stroke="#C9899E" stroke-width="2.5" stroke-linecap="round" stroke-opacity="0.72"/>
-  <path d="M846 212C892 182 944 180 992 212" stroke="#D4A0B1" stroke-width="2" stroke-linecap="round" stroke-opacity="0.72"/>
-
   <g filter="url(#shadow)">
-    <rect x="732" y="44" width="408" height="212" rx="28" fill="url(#panel)"/>
-    <rect x="732" y="44" width="408" height="212" rx="28" stroke="#E1B6C5" stroke-width="1.2"/>
+    <rect x="748" y="60" width="360" height="176" rx="26" fill="url(#panel)"/>
+    <rect x="748" y="60" width="360" height="176" rx="26" stroke="#E1B6C5" stroke-width="1.2"/>
   </g>
-
-  <rect x="760" y="80" width="154" height="48" rx="24" fill="url(#pill)"/>
-  <rect x="930" y="80" width="172" height="48" rx="24" fill="url(#pill)"/>
-  <rect x="770" y="146" width="192" height="42" rx="21" fill="#FFF9FB" fill-opacity="0.92" stroke="#E3BCC8" stroke-width="1.2"/>
-  <rect x="976" y="146" width="124" height="42" rx="21" fill="url(#pill)" fill-opacity="0.9"/>
-  <rect x="786" y="196" width="132" height="40" rx="20" fill="url(#pill)" fill-opacity="0.9"/>
-  <rect x="932" y="196" width="170" height="40" rx="20" fill="#FFF9FB" fill-opacity="0.92" stroke="#E3BCC8" stroke-width="1.2"/>
-  <rect x="802" y="244" width="148" height="40" rx="20" fill="#FFF9FB" fill-opacity="0.92" stroke="#E3BCC8" stroke-width="1.2"/>
-  <rect x="964" y="244" width="138" height="40" rx="20" fill="url(#pill)" fill-opacity="0.9"/>
 
   <text x="90" y="122" fill="#482733" font-family="Georgia, 'Times New Roman', serif" font-size="62" font-weight="700" letter-spacing="0.5">bitpixi</text>
   <text x="92" y="160" fill="#7A495C" font-family="'Trebuchet MS', Arial, sans-serif" font-size="24" font-weight="600">creative technologist</text>
@@ -58,16 +33,14 @@
     B2C product design • community experiences • experimental interfaces
   </text>
 
-  <text x="837" y="109" text-anchor="middle" fill="#5C3140" font-family="'Trebuchet MS', Arial, sans-serif" font-size="16" font-weight="600">design-minded</text>
-  <text x="1016" y="109" text-anchor="middle" fill="#5C3140" font-family="'Trebuchet MS', Arial, sans-serif" font-size="16" font-weight="600">B2C focused</text>
-
-  <text x="866" y="172" text-anchor="middle" fill="#5C3140" font-family="'Trebuchet MS', Arial, sans-serif" font-size="15" font-weight="600">agentic-workflows</text>
-  <text x="1038" y="172" text-anchor="middle" fill="#5C3140" font-family="'Trebuchet MS', Arial, sans-serif" font-size="15" font-weight="600">community</text>
-  <text x="852" y="221" text-anchor="middle" fill="#5C3140" font-family="'Trebuchet MS', Arial, sans-serif" font-size="15" font-weight="600">AI-products</text>
-  <text x="1017" y="221" text-anchor="middle" fill="#5C3140" font-family="'Trebuchet MS', Arial, sans-serif" font-size="15" font-weight="600">social-platforms</text>
-  <text x="876" y="269" text-anchor="middle" fill="#5C3140" font-family="'Trebuchet MS', Arial, sans-serif" font-size="15" font-weight="600">virtual-worlds</text>
-  <text x="1033" y="269" text-anchor="middle" fill="#5C3140" font-family="'Trebuchet MS', Arial, sans-serif" font-size="15" font-weight="600">creator-tools</text>
-
-  <path d="M44 266H688" stroke="#D7A7B7" stroke-width="1.5" stroke-linecap="round" stroke-opacity="0.82"/>
-  <circle cx="716" cy="266" r="6" fill="#C88399"/>
+  <text x="928" y="120" text-anchor="middle" fill="#C992A6" font-family="Georgia, 'Times New Roman', serif" font-size="44" font-weight="700">"</text>
+  <text x="928" y="148" text-anchor="middle" fill="#5C3140" font-family="Georgia, 'Times New Roman', serif" font-size="24" font-style="italic">
+    The ending has not yet
+  </text>
+  <text x="928" y="178" text-anchor="middle" fill="#5C3140" font-family="Georgia, 'Times New Roman', serif" font-size="24" font-style="italic">
+    been written.
+  </text>
+  <text x="928" y="214" text-anchor="middle" fill="#7A495C" font-family="'Trebuchet MS', Arial, sans-serif" font-size="15">
+    - Atrus, Myst (1993)
+  </text>
 </svg>
