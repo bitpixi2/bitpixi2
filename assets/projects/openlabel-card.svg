@@ -32,15 +32,15 @@
 
   <text x="500" y="220" fill="#503033" font-family="Georgia, 'Times New Roman', serif" font-size="62" font-weight="700">OpenLabel</text>
   <text x="500" y="282" fill="#503033" font-family="Georgia, 'Times New Roman', serif" font-size="62" font-weight="700">SK20 Linux</text>
-  <text x="502" y="344" fill="#775255" font-family="'Trebuchet MS', Arial, sans-serif" font-size="28">thermal printer interoperability</text>
-  <text x="502" y="384" fill="#775255" font-family="'Trebuchet MS', Arial, sans-serif" font-size="28">CUPS, Bluetooth, BLE, and protocol work</text>
+  <text x="502" y="344" fill="#775255" font-family="'Trebuchet MS', Arial, sans-serif" font-size="28">Linux printer recovery work</text>
+  <text x="502" y="384" fill="#775255" font-family="'Trebuchet MS', Arial, sans-serif" font-size="28">CUPS, BLE, Bluetooth, and protocol notes</text>
 
   <rect x="502" y="452" width="144" height="56" rx="28" fill="#FFF9F8" stroke="#E2C4BA" stroke-width="2"/>
   <rect x="668" y="452" width="136" height="56" rx="28" fill="#F2D4CB"/>
   <rect x="826" y="452" width="176" height="56" rx="28" fill="#FFF9F8" stroke="#E2C4BA" stroke-width="2"/>
   <text x="574" y="487" text-anchor="middle" fill="#5C3639" font-family="'Trebuchet MS', Arial, sans-serif" font-size="22" font-weight="600">Python</text>
-  <text x="736" y="487" text-anchor="middle" fill="#5C3639" font-family="'Trebuchet MS', Arial, sans-serif" font-size="22" font-weight="600">CUPS</text>
-  <text x="914" y="487" text-anchor="middle" fill="#5C3639" font-family="'Trebuchet MS', Arial, sans-serif" font-size="22" font-weight="600">device interop</text>
+  <text x="736" y="487" text-anchor="middle" fill="#5C3639" font-family="'Trebuchet MS', Arial, sans-serif" font-size="22" font-weight="600">Linux</text>
+  <text x="914" y="487" text-anchor="middle" fill="#5C3639" font-family="'Trebuchet MS', Arial, sans-serif" font-size="22" font-weight="600">hardware interop</text>
 
   <path d="M878 608L886 628L906 636L886 644L878 664L870 644L850 636L870 628L878 608Z" fill="#E6C0C0"/>
 </svg>

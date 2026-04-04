@@ -28,13 +28,13 @@
 
   <text x="470" y="220" fill="#4F2937" font-family="Georgia, 'Times New Roman', serif" font-size="62" font-weight="700">Impress Your</text>
   <text x="470" y="282" fill="#4F2937" font-family="Georgia, 'Times New Roman', serif" font-size="62" font-weight="700">Valentine</text>
-  <text x="472" y="344" fill="#76495C" font-family="'Trebuchet MS', Arial, sans-serif" font-size="28">full telephony pipeline</text>
-  <text x="472" y="384" fill="#76495C" font-family="'Trebuchet MS', Arial, sans-serif" font-size="28">hackathon build, 2nd place finish</text>
+  <text x="472" y="344" fill="#76495C" font-family="'Trebuchet MS', Arial, sans-serif" font-size="28">voice-first product prototype</text>
+  <text x="472" y="384" fill="#76495C" font-family="'Trebuchet MS', Arial, sans-serif" font-size="28">full telephony pipeline, 2nd place</text>
 
   <rect x="472" y="452" width="144" height="56" rx="28" fill="#FFF9FB" stroke="#E3B9C7" stroke-width="2"/>
   <rect x="636" y="452" width="148" height="56" rx="28" fill="#F1CEDA"/>
   <rect x="804" y="452" width="236" height="56" rx="28" fill="#FFF9FB" stroke="#E3B9C7" stroke-width="2"/>
   <text x="544" y="487" text-anchor="middle" fill="#5C3140" font-family="'Trebuchet MS', Arial, sans-serif" font-size="22" font-weight="600">voice UX</text>
   <text x="710" y="487" text-anchor="middle" fill="#5C3140" font-family="'Trebuchet MS', Arial, sans-serif" font-size="22" font-weight="600">Twilio</text>
-  <text x="922" y="487" text-anchor="middle" fill="#5C3140" font-family="'Trebuchet MS', Arial, sans-serif" font-size="22" font-weight="600">2nd place build</text>
+  <text x="922" y="487" text-anchor="middle" fill="#5C3140" font-family="'Trebuchet MS', Arial, sans-serif" font-size="22" font-weight="600">rapid build</text>
 </svg>

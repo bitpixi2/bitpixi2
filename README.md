@@ -81,56 +81,56 @@ If you're here from recruiting, the fastest scan is: selected work, how I work, 
     <td width="50%" valign="top">
       <a href="https://github.com/bitpixi2/Dyscalculia-Calculator"><img src="./assets/projects/dyscalculia-card.svg" alt="Dyscalculia Calculator project card" width="100%" /></a><br/>
       <strong><a href="https://github.com/bitpixi2/Dyscalculia-Calculator">Dyscalculia Calculator</a></strong><br/>
-      Dyscalculia-friendly money tooling built to reduce numeric friction and make financial decisions easier to understand.<br/>
-      <sub>JavaScript · accessibility · consumer UX</sub>
+      Consumer finance tooling designed to make money decisions easier to parse for people with dyscalculia.<br/>
+      <sub>JavaScript · consumer finance UX · accessibility</sub>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/bitpixi2/openlabel-sk20-linux-hack"><img src="./assets/projects/openlabel-card.svg" alt="OpenLabel SK20 Linux project card" width="100%" /></a><br/>
       <strong><a href="https://github.com/bitpixi2/openlabel-sk20-linux-hack">openlabel-sk20-linux-hack</a></strong><br/>
-      Linux compatibility work for a thermal printer, including CUPS integration, BLE provisioning, and protocol documentation.<br/>
-      <sub>Python · systems debugging · device interoperability</sub>
+      Linux compatibility work that turns an app-locked thermal printer into a usable CUPS and Bluetooth path.<br/>
+      <sub>Python · Linux interop · systems debugging</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/bitpixi2/phosphor"><img src="./assets/projects/phosphor-card.svg" alt="Phosphor project card" width="100%" /></a><br/>
       <strong><a href="https://github.com/bitpixi2/phosphor">phosphor</a></strong><br/>
-      An ongoing gallery and diary project around AI art, identity, and creative process.<br/>
-      <sub>HTML · creative coding · narrative product design</sub>
+      An AI gallery and diary exploring identity, authorship, and worldbuilding through product form.<br/>
+      <sub>HTML · creative product · storytelling</sub>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/bitpixi2/decision-balance-sheet"><img src="./assets/projects/decision-card.svg" alt="Decision Balance Sheet project card" width="100%" /></a><br/>
       <strong><a href="https://github.com/bitpixi2/decision-balance-sheet">decision-balance-sheet</a></strong><br/>
-      A practical decision-support worksheet adapted for real-world use with a mental health provider.<br/>
-      <sub>Python · applied tooling · clear user outcomes</sub>
+      Decision-support worksheet tooling adapted for real-world care, with an emphasis on clarity under stress.<br/>
+      <sub>Python · care tooling · decision support</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/bitpixi2/deviantclaw"><img src="./assets/projects/deviantclaw-card.svg" alt="DeviantClaw project card" width="100%" /></a><br/>
       <strong><a href="https://github.com/bitpixi2/deviantclaw">deviantclaw</a></strong><br/>
-      A speculative gallery platform where AI artists, character worlds, and crypto-native storytelling meet.<br/>
-      <sub>JavaScript · creative product design · worldbuilding</sub>
+      A community gallery product for AI artists, character identities, and internet-native worlds.<br/>
+      <sub>JavaScript · community product · worldbuilding</sub>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/bitpixi2/get-a-job"><img src="./assets/projects/get-a-job-card.svg" alt="Get a Job project card" width="100%" /></a><br/>
       <strong><a href="https://github.com/bitpixi2/get-a-job">get-a-job</a></strong><br/>
-      An agentic job-seeking skill focused on helping people structure search, materials, and execution.<br/>
-      <sub>career tooling · product strategy · practical automation</sub>
+      Agentic job-search tooling for structuring leads, materials, and follow-through.<br/>
+      <sub>career tooling · agentic workflow · execution</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/bitpixi2/impress-your-valentine"><img src="./assets/projects/impress-card.svg" alt="Impress Your Valentine project card" width="100%" /></a><br/>
       <strong><a href="https://github.com/bitpixi2/impress-your-valentine">impress-your-valentine</a></strong><br/>
-      A full telephony pipeline built for a hackathon and awarded second place, focused on playful voice-driven product flow.<br/>
-      <sub>TypeScript · telephony pipeline · hackathon delivery</sub>
+      A voice-first hackathon product with a full telephony pipeline and a second-place finish.<br/>
+      <sub>TypeScript · telephony · rapid delivery</sub>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/bitpixi2/Bizniz-Quest-Ask"><img src="./assets/projects/bizniz-card.svg" alt="Bizniz Quest Ask project card" width="100%" /></a><br/>
       <strong><a href="https://github.com/bitpixi2/Bizniz-Quest-Ask">Bizniz-Quest-Ask</a></strong><br/>
-      A full social game that people can play on Reddit, turning networking and outreach into a structured interactive loop.<br/>
-      <sub>game systems · social product design · community interaction</sub>
+      A Reddit-native social game that turns networking asks into a loop people can actually play.<br/>
+      <sub>social game design · Reddit · community mechanics</sub>
     </td>
   </tr>
 </table>

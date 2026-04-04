@@ -29,15 +29,15 @@
   <circle cx="336" cy="424" r="14" fill="#F3CDDA"/>
 
   <text x="500" y="220" fill="#502C39" font-family="Georgia, 'Times New Roman', serif" font-size="66" font-weight="700">phosphor</text>
-  <text x="502" y="306" fill="#775062" font-family="'Trebuchet MS', Arial, sans-serif" font-size="28">AI gallery, diary, and worldbuilding practice</text>
-  <text x="502" y="346" fill="#775062" font-family="'Trebuchet MS', Arial, sans-serif" font-size="28">identity, process, and narrative product design</text>
+  <text x="502" y="306" fill="#775062" font-family="'Trebuchet MS', Arial, sans-serif" font-size="28">AI gallery and diary</text>
+  <text x="502" y="346" fill="#775062" font-family="'Trebuchet MS', Arial, sans-serif" font-size="28">for identity, authorship, and worldbuilding</text>
 
   <rect x="502" y="430" width="158" height="56" rx="28" fill="#FFF9FB" stroke="#E2B9C8" stroke-width="2"/>
   <rect x="684" y="430" width="164" height="56" rx="28" fill="#F2D7E3"/>
   <rect x="872" y="430" width="208" height="56" rx="28" fill="#FFF9FB" stroke="#E2B9C8" stroke-width="2"/>
   <text x="581" y="465" text-anchor="middle" fill="#5D3344" font-family="'Trebuchet MS', Arial, sans-serif" font-size="22" font-weight="600">AI art</text>
-  <text x="766" y="465" text-anchor="middle" fill="#5D3344" font-family="'Trebuchet MS', Arial, sans-serif" font-size="22" font-weight="600">gallery</text>
-  <text x="976" y="465" text-anchor="middle" fill="#5D3344" font-family="'Trebuchet MS', Arial, sans-serif" font-size="22" font-weight="600">narrative product</text>
+  <text x="766" y="465" text-anchor="middle" fill="#5D3344" font-family="'Trebuchet MS', Arial, sans-serif" font-size="22" font-weight="600">gallery UX</text>
+  <text x="976" y="465" text-anchor="middle" fill="#5D3344" font-family="'Trebuchet MS', Arial, sans-serif" font-size="22" font-weight="600">worldbuilding</text>
 
   <path d="M870 598C884 576 916 584 920 612C924 644 886 666 870 676C856 666 818 644 822 612C826 584 856 576 870 598Z" fill="#EFC8D8"/>
 </svg>

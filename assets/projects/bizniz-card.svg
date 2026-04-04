@@ -33,15 +33,15 @@
 
   <text x="490" y="220" fill="#513134" font-family="Georgia, 'Times New Roman', serif" font-size="62" font-weight="700">Bizniz Quest</text>
   <text x="490" y="282" fill="#513134" font-family="Georgia, 'Times New Roman', serif" font-size="62" font-weight="700">Ask</text>
-  <text x="492" y="344" fill="#775457" font-family="'Trebuchet MS', Arial, sans-serif" font-size="28">a social product disguised as a game</text>
-  <text x="492" y="384" fill="#775457" font-family="'Trebuchet MS', Arial, sans-serif" font-size="28">networking, quests, and public participation</text>
+  <text x="492" y="344" fill="#775457" font-family="'Trebuchet MS', Arial, sans-serif" font-size="28">Reddit-native social game</text>
+  <text x="492" y="384" fill="#775457" font-family="'Trebuchet MS', Arial, sans-serif" font-size="28">turning asks into participation and play</text>
 
   <rect x="492" y="452" width="130" height="56" rx="28" fill="#FFF9F8" stroke="#E2C4BA" stroke-width="2"/>
   <rect x="644" y="452" width="168" height="56" rx="28" fill="#F1D6CB"/>
   <rect x="834" y="452" width="212" height="56" rx="28" fill="#FFF9F8" stroke="#E2C4BA" stroke-width="2"/>
   <text x="557" y="487" text-anchor="middle" fill="#5C3639" font-family="'Trebuchet MS', Arial, sans-serif" font-size="22" font-weight="600">Reddit</text>
   <text x="728" y="487" text-anchor="middle" fill="#5C3639" font-family="'Trebuchet MS', Arial, sans-serif" font-size="22" font-weight="600">playable</text>
-  <text x="940" y="487" text-anchor="middle" fill="#5C3639" font-family="'Trebuchet MS', Arial, sans-serif" font-size="22" font-weight="600">social game loop</text>
+  <text x="940" y="487" text-anchor="middle" fill="#5C3639" font-family="'Trebuchet MS', Arial, sans-serif" font-size="22" font-weight="600">community loop</text>
 
   <path d="M896 612L904 632L924 640L904 648L896 668L888 648L868 640L888 632L896 612Z" fill="#E7BEC1"/>
 </svg>

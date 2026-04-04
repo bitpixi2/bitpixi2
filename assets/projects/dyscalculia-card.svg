@@ -41,15 +41,15 @@
 
   <text x="500" y="224" fill="#4F2938" font-family="Georgia, 'Times New Roman', serif" font-size="64" font-weight="700">Dyscalculia</text>
   <text x="500" y="288" fill="#4F2938" font-family="Georgia, 'Times New Roman', serif" font-size="64" font-weight="700">Calculator</text>
-  <text x="502" y="352" fill="#75485A" font-family="'Trebuchet MS', Arial, sans-serif" font-size="28">financial support tooling</text>
-  <text x="502" y="392" fill="#75485A" font-family="'Trebuchet MS', Arial, sans-serif" font-size="28">designed for lower numeric friction</text>
+  <text x="502" y="352" fill="#75485A" font-family="'Trebuchet MS', Arial, sans-serif" font-size="28">consumer finance UX</text>
+  <text x="502" y="392" fill="#75485A" font-family="'Trebuchet MS', Arial, sans-serif" font-size="28">for lower-friction money decisions</text>
 
   <rect x="502" y="458" width="196" height="56" rx="28" fill="#FFF9FB" stroke="#E2B8C5" stroke-width="2"/>
   <rect x="720" y="458" width="154" height="56" rx="28" fill="#F3D6E0"/>
   <rect x="894" y="458" width="182" height="56" rx="28" fill="#FFF9FB" stroke="#E2B8C5" stroke-width="2"/>
   <text x="600" y="493" text-anchor="middle" fill="#5C3140" font-family="'Trebuchet MS', Arial, sans-serif" font-size="22" font-weight="600">consumer UX</text>
   <text x="797" y="493" text-anchor="middle" fill="#5C3140" font-family="'Trebuchet MS', Arial, sans-serif" font-size="22" font-weight="600">clarity</text>
-  <text x="985" y="493" text-anchor="middle" fill="#5C3140" font-family="'Trebuchet MS', Arial, sans-serif" font-size="22" font-weight="600">accessible math</text>
+  <text x="985" y="493" text-anchor="middle" fill="#5C3140" font-family="'Trebuchet MS', Arial, sans-serif" font-size="22" font-weight="600">accessibility</text>
 
   <path d="M692 612C720 582 768 604 768 642C768 684 711 720 692 730C673 720 616 684 616 642C616 604 664 582 692 612Z" fill="#F2C8D6"/>
 </svg>

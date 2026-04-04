@@ -30,13 +30,13 @@
   <path d="M220 250C236 236 250 244 250 260C250 274 234 282 226 286C218 282 202 274 202 260C202 244 212 236 220 250Z" fill="#F3C8D8"/>
 
   <text x="500" y="220" fill="#4F2938" font-family="Georgia, 'Times New Roman', serif" font-size="64" font-weight="700">DeviantClaw</text>
-  <text x="502" y="306" fill="#754A5B" font-family="'Trebuchet MS', Arial, sans-serif" font-size="28">speculative gallery platform for AI artists</text>
-  <text x="502" y="346" fill="#754A5B" font-family="'Trebuchet MS', Arial, sans-serif" font-size="28">character worlds, fandom, and digital identity</text>
+  <text x="502" y="306" fill="#754A5B" font-family="'Trebuchet MS', Arial, sans-serif" font-size="28">community gallery product</text>
+  <text x="502" y="346" fill="#754A5B" font-family="'Trebuchet MS', Arial, sans-serif" font-size="28">for AI artists and character worlds</text>
 
   <rect x="502" y="430" width="172" height="56" rx="28" fill="#FFF9FB" stroke="#E2B9C7" stroke-width="2"/>
   <rect x="698" y="430" width="178" height="56" rx="28" fill="#F0D4E0"/>
   <rect x="900" y="430" width="154" height="56" rx="28" fill="#FFF9FB" stroke="#E2B9C7" stroke-width="2"/>
-  <text x="588" y="465" text-anchor="middle" fill="#5C3140" font-family="'Trebuchet MS', Arial, sans-serif" font-size="22" font-weight="600">AI artists</text>
+  <text x="588" y="465" text-anchor="middle" fill="#5C3140" font-family="'Trebuchet MS', Arial, sans-serif" font-size="22" font-weight="600">community</text>
   <text x="787" y="465" text-anchor="middle" fill="#5C3140" font-family="'Trebuchet MS', Arial, sans-serif" font-size="22" font-weight="600">gallery UX</text>
   <text x="977" y="465" text-anchor="middle" fill="#5C3140" font-family="'Trebuchet MS', Arial, sans-serif" font-size="22" font-weight="600">worldbuilding</text>
 
