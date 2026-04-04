@@ -130,7 +130,7 @@ I like making things that are useful, expressive, social, and a little unexpecte
 ## How I Work
 
 <p align="center">
-  <img src="./assets/stickers/sticker-row.svg" alt="Cute focus stickers for agentic systems, worlds, community, and new econ." width="560" />
+  <img src="./assets/stickers/sticker-row.svg" alt="Cute focus stickers for agentic systems, worlds, community, and new econ." width="500" />
 </p>
 
 <table>
