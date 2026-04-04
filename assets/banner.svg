@@ -1,0 +1,69 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">bitpixi profile banner</title>
+  <desc id="desc">A rose-toned banner with the text bitpixi, creative technologist, and decorative geometric shapes.</desc>
+  <defs>
+    <linearGradient id="bg" x1="74" y1="24" x2="1134" y2="302" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFF8FA"/>
+      <stop offset="0.42" stop-color="#F7E8EE"/>
+      <stop offset="1" stop-color="#EED4DE"/>
+    </linearGradient>
+    <linearGradient id="panel" x1="780" y1="56" x2="1116" y2="256" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFF8FA" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#F5E1E8" stop-opacity="0.88"/>
+    </linearGradient>
+    <linearGradient id="pill" x1="0" y1="0" x2="148" y2="44" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F3DCE5"/>
+      <stop offset="1" stop-color="#EBC8D5"/>
+    </linearGradient>
+    <pattern id="dots" width="26" height="26" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="2" fill="#D8A9B9" fill-opacity="0.34"/>
+    </pattern>
+    <filter id="shadow" x="716" y="24" width="448" height="264" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="10" stdDeviation="18" flood-color="#A8647C" flood-opacity="0.18"/>
+    </filter>
+  </defs>
+
+  <rect x="10" y="10" width="1180" height="300" rx="28" fill="url(#bg)"/>
+  <rect x="10" y="10" width="1180" height="300" rx="28" stroke="#E5BCC9" stroke-width="1.5"/>
+
+  <circle cx="1038" cy="84" r="144" fill="#F4DEE6" fill-opacity="0.72"/>
+  <circle cx="1058" cy="94" r="104" stroke="#D7A2B4" stroke-opacity="0.7" stroke-width="1.5"/>
+  <circle cx="870" cy="272" r="96" fill="#F6E8ED" fill-opacity="0.82"/>
+  <rect x="886" y="48" width="242" height="212" rx="26" fill="url(#dots)" opacity="0.9"/>
+
+  <path d="M902 66C964 92 1012 150 1010 206" stroke="#B66C86" stroke-width="2.5" stroke-linecap="round" stroke-opacity="0.72"/>
+  <path d="M1018 84C1066 110 1100 150 1108 208" stroke="#C9899E" stroke-width="2.5" stroke-linecap="round" stroke-opacity="0.72"/>
+  <path d="M846 212C892 182 944 180 992 212" stroke="#D4A0B1" stroke-width="2" stroke-linecap="round" stroke-opacity="0.72"/>
+
+  <g filter="url(#shadow)">
+    <rect x="744" y="44" width="384" height="212" rx="28" fill="url(#panel)"/>
+    <rect x="744" y="44" width="384" height="212" rx="28" stroke="#E1B6C5" stroke-width="1.2"/>
+  </g>
+
+  <rect x="776" y="80" width="136" height="48" rx="24" fill="url(#pill)"/>
+  <rect x="928" y="80" width="160" height="48" rx="24" fill="url(#pill)"/>
+  <rect x="804" y="148" width="284" height="78" rx="22" fill="#FFF9FB" fill-opacity="0.86" stroke="#E3BCC8" stroke-width="1.2"/>
+
+  <text x="90" y="122" fill="#482733" font-family="Georgia, 'Times New Roman', serif" font-size="62" font-weight="700" letter-spacing="0.5">bitpixi</text>
+  <text x="92" y="160" fill="#7A495C" font-family="'Trebuchet MS', Arial, sans-serif" font-size="24" font-weight="600">creative technologist</text>
+  <text x="92" y="202" fill="#6A4150" font-family="'Trebuchet MS', Arial, sans-serif" font-size="19">
+    accessible products • AI tools • experimental interfaces
+  </text>
+  <text x="92" y="238" fill="#6A4150" font-family="'Trebuchet MS', Arial, sans-serif" font-size="17">
+    frontend • product engineering • creative coding • strange useful things
+  </text>
+
+  <text x="844" y="109" text-anchor="middle" fill="#5C3140" font-family="'Trebuchet MS', Arial, sans-serif" font-size="17" font-weight="600">design-minded</text>
+  <text x="1008" y="109" text-anchor="middle" fill="#5C3140" font-family="'Trebuchet MS', Arial, sans-serif" font-size="17" font-weight="600">systems-curious</text>
+
+  <text x="826" y="180" fill="#58323F" font-family="Georgia, 'Times New Roman', serif" font-size="24" font-weight="700">Building things with shape.</text>
+  <text x="826" y="208" fill="#7A495C" font-family="'Trebuchet MS', Arial, sans-serif" font-size="16">
+    Product sense, technical depth, and a taste for
+  </text>
+  <text x="826" y="230" fill="#7A495C" font-family="'Trebuchet MS', Arial, sans-serif" font-size="16">
+    interfaces that feel human instead of generic.
+  </text>
+
+  <path d="M44 266H688" stroke="#D7A7B7" stroke-width="1.5" stroke-linecap="round" stroke-opacity="0.82"/>
+  <circle cx="716" cy="266" r="6" fill="#C88399"/>
+</svg>
