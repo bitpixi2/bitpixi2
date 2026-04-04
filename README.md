@@ -4,25 +4,50 @@
 
 ## bitpixi
 
-Creative technologist building B2C products across AI, social media, virtual worlds, and experimental interfaces.
+```text
+ /\_/\\
+( o.o )  B2C AI, social platforms, virtual worlds,
+ > ^ <   and experimental interfaces with a human touch.
+```
 
 I like making things that are useful, expressive, social, and a little unexpected.
 
-- Based in Riddells Creek, Australia
-- Company: [Hackeroos](https://hackeroos.com.au)
-- Website: [bitpixi.com](https://bitpixi.com)
-- LinkedIn: [linkedin.com/in/bitpixi](https://linkedin.com/in/bitpixi)
-- Focus: `B2C product` `AI` `social platforms` `virtual worlds` `community experiences`
+<table>
+  <tr>
+    <td><code>~ base</code></td>
+    <td>Riddells Creek, Australia</td>
+  </tr>
+  <tr>
+    <td><code>~ company</code></td>
+    <td><a href="https://hackeroos.com.au">Hackeroos</a></td>
+  </tr>
+  <tr>
+    <td><code>~ website</code></td>
+    <td><a href="https://bitpixi.com">bitpixi.com</a></td>
+  </tr>
+  <tr>
+    <td><code>~ linkedin</code></td>
+    <td><a href="https://linkedin.com/in/bitpixi">linkedin.com/in/bitpixi</a></td>
+  </tr>
+  <tr>
+    <td><code>~ focus</code></td>
+    <td><code>B2C product</code> <code>AI</code> <code>social platforms</code> <code>virtual worlds</code> <code>community experiences</code></td>
+  </tr>
+</table>
 
 If you're here from recruiting, the fastest scan is: selected work, how I work, then links.
 
 ## Best Fit
 
-- Frontend and product engineering roles
-- B2C AI and creator-facing products
-- Social, community, and event-oriented platform work
-- Creative technology and virtual world experiences
-- Rapid prototyping, documentation-heavy systems work, and strange product ideas that still need to ship
+```text
++------------------------------- best fit --------------------------------+
+| [01] frontend and product engineering                                  |
+| [02] B2C AI and creator-facing products                                |
+| [03] social, community, and event-oriented platform work               |
+| [04] creative technology and virtual world experiences                 |
+| [05] rapid prototyping and documentation-heavy systems work            |
++------------------------------------------------------------------------+
+```
 
 ## Selected Work
 
@@ -67,26 +92,47 @@ If you're here from recruiting, the fastest scan is: selected work, how I work, 
 
 ## How I Work
 
-- I care about product shape, not just code output. I like interfaces that feel intentional and readable.
-- I tend to work well in the space between design, engineering, and experimentation.
-- I document aggressively when I am navigating uncertain systems, protocols, or messy technical territory.
-- I am especially interested in tools that help people think more clearly, create more freely, or use technology with less friction.
+```text
++------------------------------ how i work -------------------------------+
+| [shape] intentional interfaces over generic ones                       |
+| [bridge] strongest where design, engineering, and experiments overlap  |
+| [maps] document aggressively when systems get uncertain or messy       |
+| [spark] interested in tools that reduce friction and increase agency   |
++------------------------------------------------------------------------+
+```
 
 ## Current Threads
 
-- B2C AI and creator products
-- Social platforms and online community experiences
-- Virtual worlds, interactive storytelling, and speculative interfaces
-- Creative tooling, product experiments, and event support
+```text
++---------------------------- current threads ----------------------------+
+| [ai] B2C AI and creator products                                       |
+| [social] platforms, online communities, and event support              |
+| [worlds] interactive storytelling and speculative interfaces           |
+| [tools] creative tooling and experimental product ideas                |
++------------------------------------------------------------------------+
+```
 
 ## Links
 
-- Company: [hackeroos.com.au](https://hackeroos.com.au)
-- Website: [bitpixi.com](https://bitpixi.com)
-- LinkedIn: [linkedin.com/in/bitpixi](https://linkedin.com/in/bitpixi)
-- GitHub: [github.com/bitpixi2](https://github.com/bitpixi2)
-- X: [@bitpixi](https://x.com/bitpixi)
-
-## Notes
-
-Most of my best work sits somewhere between product design, frontend engineering, creative technology, and documentation-heavy problem solving.
+<table>
+  <tr>
+    <td><code>~ company</code></td>
+    <td><a href="https://hackeroos.com.au">hackeroos.com.au</a></td>
+  </tr>
+  <tr>
+    <td><code>~ website</code></td>
+    <td><a href="https://bitpixi.com">bitpixi.com</a></td>
+  </tr>
+  <tr>
+    <td><code>~ linkedin</code></td>
+    <td><a href="https://linkedin.com/in/bitpixi">linkedin.com/in/bitpixi</a></td>
+  </tr>
+  <tr>
+    <td><code>~ github</code></td>
+    <td><a href="https://github.com/bitpixi2">github.com/bitpixi2</a></td>
+  </tr>
+  <tr>
+    <td><code>~ x</code></td>
+    <td><a href="https://x.com/bitpixi">@bitpixi</a></td>
+  </tr>
+</table>
