@@ -114,7 +114,7 @@ Senior UX Designer & Prompt Engineer. RISD/Tufts alum with 10+ years across UX, 
   </tr>
 </table>
 
-<table>
+<table align="center" width="92%">
   <tr>
     <td><code>~ shape</code></td>
     <td>researching who, what, when, where and hows of the problem</td>
@@ -125,7 +125,7 @@ Senior UX Designer & Prompt Engineer. RISD/Tufts alum with 10+ years across UX, 
   </tr>
   <tr>
     <td><code>~ maps</code></td>
-    <td>document aggressively when systems get uncertain or messy</td>
+    <td>document and diagram aggressively to untangle entropy</td>
   </tr>
   <tr>
     <td><code>~ spark</code></td>
