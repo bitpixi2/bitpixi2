@@ -1,20 +1,20 @@
 <svg width="180" height="180" viewBox="0 0 180 180" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">Shape icon</title>
-  <desc id="desc">A layered interface-like shape icon representing intentional form.</desc>
+  <desc id="desc">A warm apricot interface-like shape icon representing problem framing and structured inquiry.</desc>
   <defs>
     <linearGradient id="bg" x1="24" y1="18" x2="156" y2="162" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#FFF8FA"/>
-      <stop offset="1" stop-color="#F2DCE5"/>
+      <stop stop-color="#FFF9F6"/>
+      <stop offset="1" stop-color="#F3DED2"/>
     </linearGradient>
   </defs>
-  <rect x="10" y="10" width="160" height="160" rx="34" fill="url(#bg)" stroke="#E1BAC7" stroke-width="2"/>
-  <rect x="38" y="42" width="104" height="72" rx="20" fill="#FFFDFD" stroke="#D6A7B8" stroke-width="2"/>
-  <rect x="52" y="58" width="76" height="10" rx="5" fill="#F0D0DC"/>
-  <rect x="52" y="76" width="58" height="8" rx="4" fill="#F6E8EE"/>
-  <rect x="52" y="90" width="66" height="8" rx="4" fill="#F6E8EE"/>
-  <path d="M56 128L78 110L102 126L124 106" stroke="#B97890" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
-  <circle cx="56" cy="128" r="5" fill="#B97890"/>
-  <circle cx="78" cy="110" r="5" fill="#B97890"/>
-  <circle cx="102" cy="126" r="5" fill="#B97890"/>
-  <circle cx="124" cy="106" r="5" fill="#B97890"/>
+  <rect x="10" y="10" width="160" height="160" rx="34" fill="url(#bg)" stroke="#E3C2B7" stroke-width="2"/>
+  <rect x="38" y="42" width="104" height="72" rx="20" fill="#FFFDFD" stroke="#D7B2A8" stroke-width="2"/>
+  <rect x="52" y="58" width="76" height="10" rx="5" fill="#F0D9CC"/>
+  <rect x="52" y="76" width="58" height="8" rx="4" fill="#F8ECE5"/>
+  <rect x="52" y="90" width="66" height="8" rx="4" fill="#F8ECE5"/>
+  <path d="M56 128L78 110L102 126L124 106" stroke="#BD8C82" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="56" cy="128" r="5" fill="#BD8C82"/>
+  <circle cx="78" cy="110" r="5" fill="#BD8C82"/>
+  <circle cx="102" cy="126" r="5" fill="#BD8C82"/>
+  <circle cx="124" cy="106" r="5" fill="#BD8C82"/>
 </svg>

@@ -119,7 +119,7 @@ Senior UX Designer & Prompt Engineer. RISD/Tufts alum with 10+ years across UX, 
 <table>
   <tr>
     <td><code>~ shape</code></td>
-    <td>intentional interfaces over generic ones</td>
+    <td>researching who, what, when, where and hows of the problem</td>
   </tr>
   <tr>
     <td><code>~ bridge</code></td>
