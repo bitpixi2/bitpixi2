@@ -158,52 +158,8 @@ If you're here from recruiting, the fastest scan is: selected work, how I work, 
   <img src="./assets/dividers/rose-divider.svg" alt="Decorative rose divider." width="680" />
 </p>
 
-## Current Threads
-
-<table>
-  <tr>
-    <td><code>~ ai</code></td>
-    <td>B2C AI and creator products</td>
-  </tr>
-  <tr>
-    <td><code>~ worlds</code></td>
-    <td>interactive storytelling and speculative interfaces</td>
-  </tr>
-  <tr>
-    <td><code>~ community</code></td>
-    <td>social systems, online participation, and event support</td>
-  </tr>
-  <tr>
-    <td><code>~ new econ</code></td>
-    <td>inventing new ways to pay and structure digital value</td>
-  </tr>
-</table>
-
 <p align="center">
-  <img src="./assets/dividers/rose-divider.svg" alt="Decorative rose divider." width="680" />
+  <a href="https://x.com/bitpixi">
+    <img src="https://img.shields.io/badge/Follow%20me%20on%20X-%40bitpixi-E7BDC9?style=for-the-badge&logo=x&logoColor=5C3140&labelColor=FFF8FA&color=E7BDC9" alt="Follow me on X at @bitpixi" />
+  </a>
 </p>
-
-## Links
-
-<table>
-  <tr>
-    <td><code>~ company</code></td>
-    <td><a href="https://hackeroos.com.au">hackeroos.com.au</a></td>
-  </tr>
-  <tr>
-    <td><code>~ website</code></td>
-    <td><a href="https://bitpixi.com">bitpixi.com</a></td>
-  </tr>
-  <tr>
-    <td><code>~ linkedin</code></td>
-    <td><a href="https://linkedin.com/in/bitpixi">linkedin.com/in/bitpixi</a></td>
-  </tr>
-  <tr>
-    <td><code>~ github</code></td>
-    <td><a href="https://github.com/bitpixi2">github.com/bitpixi2</a></td>
-  </tr>
-  <tr>
-    <td><code>~ x</code></td>
-    <td><a href="https://x.com/bitpixi">@bitpixi</a></td>
-  </tr>
-</table>
