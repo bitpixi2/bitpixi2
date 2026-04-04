@@ -4,17 +4,7 @@
 
 ## bitpixi
 
-```text
- /\_/\\
-( o.o )  B2C AI, social platforms, virtual worlds,
- > ^ <   and experimental interfaces with a human touch.
-```
-
 I like making things that are useful, expressive, social, and a little unexpected.
-
-<p align="center">
-  <img src="./assets/stickers/sticker-row.svg" alt="Cute focus stickers for AI, worlds, community, and new econ." width="720" />
-</p>
 
 <table>
   <tr>
@@ -140,6 +130,10 @@ If you're here from recruiting, the fastest scan is: selected work, how I work, 
 </p>
 
 ## How I Work
+
+<p align="center">
+  <img src="./assets/stickers/sticker-row.svg" alt="Cute focus stickers for AI, worlds, community, and new econ." width="720" />
+</p>
 
 <table>
   <tr>
