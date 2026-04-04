@@ -7,19 +7,16 @@
 Senior UX Designer & Prompt Engineer (RISD/Tufts) with 10+ years across UX Design and weird/emerging internet things ... scaled Gfycat from 80M -> 180M+ MAU later acquired by Snap (+3 AR patents), shipped top-revenue features at Meitu (450M+ MAU), and worked on early metaverse platforms, most notably Voxels, contributing to their highest sales month; now based near Melbourne, Australia. This GitHub is basically my builder brain in public ... a scratchpad of experiments, agentic ideas, half-finished adventures, and things I needed to get out of my head, so not representative of how I ship in teams or production; think sketchbook, not case study. Also, [github.com/bitpixi](https://github.com/bitpixi) is me too, but I lost access (password + domain), so this is the active account.
 
 <p align="center">
-  <a href="https://bitpixi.com">
-    <img src="https://img.shields.io/badge/View%20my%20portfolio-bitpixi.com-E7BDC9?style=for-the-badge&logo=safari&logoColor=5C3140&labelColor=FFF8FA&color=E7BDC9" alt="View my portfolio at bitpixi.com" />
-  </a>
-  <a href="https://linkedin.com/in/bitpixi">
-    <img src="https://img.shields.io/badge/Follow%20me%20on%20LinkedIn-%40bitpixi-E7BDC9?style=for-the-badge&logo=linkedin&logoColor=5C3140&labelColor=FFF8FA&color=E7BDC9" alt="Follow me on LinkedIn at @bitpixi" />
-  </a>
-</p>
-
-<p align="center">
   <picture>
     <source media="(max-width: 600px)" srcset="./assets/stickers/sticker-row.svg" width="100%">
     <img src="./assets/stickers/sticker-row.svg" alt="Cute focus stickers for agentic systems, worlds, community, and new econ." width="500" />
   </picture>
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/bitpixi">
+    <img src="https://img.shields.io/badge/Follow%20me%20on%20LinkedIn-bitpixi-E7BDC9?style=for-the-badge&logo=linkedin&logoColor=5C3140&labelColor=FFF8FA&color=E7BDC9" alt="Follow me on LinkedIn at bitpixi" />
+  </a>
 </p>
 
 <p align="center">
@@ -86,6 +83,12 @@ Senior UX Designer & Prompt Engineer (RISD/Tufts) with 10+ years across UX Desig
     </td>
   </tr>
 </table>
+
+<p align="center">
+  <a href="https://bitpixi.com">
+    <img src="https://img.shields.io/badge/View%20my%20portfolio-bitpixi.com-E7BDC9?style=for-the-badge&logoColor=5C3140&labelColor=FFF8FA&color=E7BDC9" alt="View my portfolio at bitpixi.com" />
+  </a>
+</p>
 
 <p align="center">
   <img src="./assets/dividers/rose-divider.svg" alt="Decorative rose divider." width="680" />
