@@ -129,7 +129,7 @@ Senior UX Designer & Prompt Engineer. RISD/Tufts alum with 10+ years across UX, 
 
 ## How I Work
 
-<table>
+<table align="center">
   <tr>
     <td align="center" width="25%">
       <img src="./assets/how/shape.svg" alt="Shape icon" width="120" /><br/>
