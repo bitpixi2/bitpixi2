@@ -20,24 +20,24 @@
   <rect x="10" y="10" width="1180" height="300" rx="28" stroke="#E5BCC9" stroke-width="1.5"/>
 
   <g filter="url(#shadow)">
-    <rect x="748" y="60" width="360" height="176" rx="26" fill="url(#panel)"/>
-    <rect x="748" y="60" width="360" height="176" rx="26" stroke="#E1B6C5" stroke-width="1.2"/>
+    <rect x="732" y="52" width="388" height="190" rx="26" fill="url(#panel)"/>
+    <rect x="732" y="52" width="388" height="190" rx="26" stroke="#E1B6C5" stroke-width="1.2"/>
   </g>
 
-  <text x="90" y="132" fill="#482733" font-family="Georgia, 'Times New Roman', serif" font-size="74" font-weight="700" letter-spacing="0.3">bitpixi</text>
-  <text x="92" y="178" fill="#7A495C" font-family="'Trebuchet MS', Arial, sans-serif" font-size="30" font-weight="700">creative technologist</text>
-  <text x="92" y="226" fill="#6A4150" font-family="'Trebuchet MS', Arial, sans-serif" font-size="24">
+  <text x="90" y="138" fill="#482733" font-family="Georgia, 'Times New Roman', serif" font-size="80" font-weight="700" letter-spacing="0.3">bitpixi</text>
+  <text x="92" y="188" fill="#7A495C" font-family="'Trebuchet MS', Arial, sans-serif" font-size="34" font-weight="700">creative technologist</text>
+  <text x="92" y="240" fill="#6A4150" font-family="'Trebuchet MS', Arial, sans-serif" font-size="27">
     agentic systems • social platforms • virtual worlds
   </text>
 
-  <text x="928" y="120" text-anchor="middle" fill="#C992A6" font-family="Georgia, 'Times New Roman', serif" font-size="44" font-weight="700">"</text>
-  <text x="928" y="148" text-anchor="middle" fill="#5C3140" font-family="Georgia, 'Times New Roman', serif" font-size="24" font-style="italic">
+  <text x="926" y="120" text-anchor="middle" fill="#C992A6" font-family="Georgia, 'Times New Roman', serif" font-size="52" font-weight="700">"</text>
+  <text x="926" y="154" text-anchor="middle" fill="#5C3140" font-family="Georgia, 'Times New Roman', serif" font-size="28" font-style="italic">
     The ending has not yet
   </text>
-  <text x="928" y="178" text-anchor="middle" fill="#5C3140" font-family="Georgia, 'Times New Roman', serif" font-size="24" font-style="italic">
+  <text x="926" y="188" text-anchor="middle" fill="#5C3140" font-family="Georgia, 'Times New Roman', serif" font-size="28" font-style="italic">
     been written.
   </text>
-  <text x="928" y="214" text-anchor="middle" fill="#7A495C" font-family="'Trebuchet MS', Arial, sans-serif" font-size="15">
+  <text x="926" y="226" text-anchor="middle" fill="#7A495C" font-family="'Trebuchet MS', Arial, sans-serif" font-size="18" font-weight="600">
     - Atrus, Myst (1993)
   </text>
 </svg>
