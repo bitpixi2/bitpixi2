@@ -6,7 +6,7 @@
 
 Senior UX Designer & Prompt Engineer. RISD/Tufts alum with 10+ years across UX, machine learning, and emerging platforms. Scaled Gfycat from 80M to 180M+ MAU, earned 3 AR patents acquired by Snap, and shipped the top-revenue feature for Meitu (450M+ MAU). US citizen based near Melbourne, Australia.
 
-<table>
+<table align="center" width="92%">
   <tr>
     <td><code>~ website</code></td>
     <td><a href="https://bitpixi.com">bitpixi.com</a></td>
