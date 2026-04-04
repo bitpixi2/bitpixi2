@@ -83,16 +83,16 @@ If you're here from recruiting, the fastest scan is: selected work, how I work, 
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/bitpixi2/phosphor"><img src="./assets/projects/phosphor-card.svg" alt="Phosphor project card" width="100%" /></a><br/>
-      <strong><a href="https://github.com/bitpixi2/phosphor">phosphor</a></strong><br/>
-      An AI gallery and diary exploring identity, authorship, and worldbuilding through product form.<br/>
-      <sub>HTML · creative product · storytelling</sub>
-    </td>
-    <td width="50%" valign="top">
       <a href="https://github.com/bitpixi2/decision-balance-sheet"><img src="./assets/projects/decision-card.svg" alt="Decision Balance Sheet project card" width="100%" /></a><br/>
       <strong><a href="https://github.com/bitpixi2/decision-balance-sheet">decision-balance-sheet</a></strong><br/>
       Decision-support worksheet tooling adapted for real-world care, with an emphasis on clarity under stress.<br/>
       <sub>Python · care tooling · decision support</sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/bitpixi2/phosphor"><img src="./assets/projects/phosphor-card.svg" alt="Phosphor project card" width="100%" /></a><br/>
+      <strong><a href="https://github.com/bitpixi2/phosphor">phosphor</a></strong><br/>
+      An AI gallery and diary exploring identity, authorship, and worldbuilding through product form.<br/>
+      <sub>HTML · creative product · storytelling</sub>
     </td>
   </tr>
   <tr>
@@ -111,16 +111,16 @@ If you're here from recruiting, the fastest scan is: selected work, how I work, 
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/bitpixi2/impress-your-valentine"><img src="./assets/projects/impress-card.svg" alt="Impress Your Valentine project card" width="100%" /></a><br/>
-      <strong><a href="https://github.com/bitpixi2/impress-your-valentine">impress-your-valentine</a></strong><br/>
-      A voice-first hackathon product with a full telephony pipeline and a second-place finish.<br/>
-      <sub>TypeScript · telephony · rapid delivery</sub>
-    </td>
-    <td width="50%" valign="top">
       <a href="https://github.com/bitpixi2/Bizniz-Quest-Ask"><img src="./assets/projects/bizniz-card.svg" alt="Bizniz Quest Ask project card" width="100%" /></a><br/>
       <strong><a href="https://github.com/bitpixi2/Bizniz-Quest-Ask">Bizniz-Quest-Ask</a></strong><br/>
       A Reddit-native social game that turns networking asks into a loop people can actually play.<br/>
       <sub>social game design · Reddit · community mechanics</sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/bitpixi2/impress-your-valentine"><img src="./assets/projects/impress-card.svg" alt="Impress Your Valentine project card" width="100%" /></a><br/>
+      <strong><a href="https://github.com/bitpixi2/impress-your-valentine">impress-your-valentine</a></strong><br/>
+      A voice-first hackathon product with a full telephony pipeline and a second-place finish.<br/>
+      <sub>TypeScript · telephony · rapid delivery</sub>
     </td>
   </tr>
 </table>
