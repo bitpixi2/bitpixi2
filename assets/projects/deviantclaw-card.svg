@@ -13,7 +13,8 @@
   </defs>
   <rect x="28" y="28" width="1144" height="664" rx="42" fill="url(#bg)"/>
   <rect x="28" y="28" width="1144" height="664" rx="42" stroke="#E2BAC8" stroke-width="3"/>
-  <circle cx="1038" cy="124" r="116" fill="#F6E4EC"/>
+  <path d="M1000 86L1008 106L1028 114L1008 122L1000 142L992 122L972 114L992 106L1000 86Z" fill="#E7BFD0"/>
+  <path d="M944 132L949 145L962 150L949 155L944 168L939 155L926 150L939 145L944 132Z" fill="#F0D4E0"/>
   <circle cx="156" cy="586" r="88" fill="#F9EDF3"/>
 
   <rect x="92" y="116" width="350" height="474" rx="32" fill="url(#ui)" stroke="#E1BCCD" stroke-width="3"/>

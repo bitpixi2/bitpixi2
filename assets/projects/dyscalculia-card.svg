@@ -13,8 +13,8 @@
   </defs>
   <rect x="28" y="28" width="1144" height="664" rx="42" fill="url(#bg)"/>
   <rect x="28" y="28" width="1144" height="664" rx="42" stroke="#E3B9C7" stroke-width="3"/>
-  <circle cx="1002" cy="134" r="112" fill="#F7E6EC"/>
-  <circle cx="1046" cy="188" r="70" fill="#F0D3DD"/>
+  <path d="M998 92L1006 112L1026 120L1006 128L998 148L990 128L970 120L990 112L998 92Z" fill="#E7BDC1"/>
+  <path d="M942 138L947 151L960 156L947 161L942 174L937 161L924 156L937 151L942 138Z" fill="#F3D6E0"/>
   <circle cx="146" cy="560" r="84" fill="#F6E8ED"/>
 
   <rect x="86" y="118" width="338" height="450" rx="34" fill="url(#panel)" stroke="#E0B8C5" stroke-width="3"/>
@@ -51,5 +51,4 @@
   <text x="797" y="493" text-anchor="middle" fill="#5C3140" font-family="'Trebuchet MS', Arial, sans-serif" font-size="22" font-weight="600">clarity</text>
   <text x="985" y="493" text-anchor="middle" fill="#5C3140" font-family="'Trebuchet MS', Arial, sans-serif" font-size="22" font-weight="600">accessibility</text>
 
-  <path d="M692 612C720 582 768 604 768 642C768 684 711 720 692 730C673 720 616 684 616 642C616 604 664 582 692 612Z" fill="#F2C8D6"/>
 </svg>
