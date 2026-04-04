@@ -42,7 +42,12 @@
 
   <rect x="760" y="80" width="154" height="48" rx="24" fill="url(#pill)"/>
   <rect x="930" y="80" width="172" height="48" rx="24" fill="url(#pill)"/>
-  <rect x="786" y="148" width="322" height="86" rx="22" fill="#FFF9FB" fill-opacity="0.86" stroke="#E3BCC8" stroke-width="1.2"/>
+  <rect x="770" y="146" width="192" height="42" rx="21" fill="#FFF9FB" fill-opacity="0.92" stroke="#E3BCC8" stroke-width="1.2"/>
+  <rect x="976" y="146" width="124" height="42" rx="21" fill="url(#pill)" fill-opacity="0.9"/>
+  <rect x="786" y="196" width="132" height="40" rx="20" fill="url(#pill)" fill-opacity="0.9"/>
+  <rect x="932" y="196" width="170" height="40" rx="20" fill="#FFF9FB" fill-opacity="0.92" stroke="#E3BCC8" stroke-width="1.2"/>
+  <rect x="802" y="244" width="148" height="40" rx="20" fill="#FFF9FB" fill-opacity="0.92" stroke="#E3BCC8" stroke-width="1.2"/>
+  <rect x="964" y="244" width="138" height="40" rx="20" fill="url(#pill)" fill-opacity="0.9"/>
 
   <text x="90" y="122" fill="#482733" font-family="Georgia, 'Times New Roman', serif" font-size="62" font-weight="700" letter-spacing="0.5">bitpixi</text>
   <text x="92" y="160" fill="#7A495C" font-family="'Trebuchet MS', Arial, sans-serif" font-size="24" font-weight="600">creative technologist</text>
@@ -56,14 +61,12 @@
   <text x="837" y="109" text-anchor="middle" fill="#5C3140" font-family="'Trebuchet MS', Arial, sans-serif" font-size="16" font-weight="600">design-minded</text>
   <text x="1016" y="109" text-anchor="middle" fill="#5C3140" font-family="'Trebuchet MS', Arial, sans-serif" font-size="16" font-weight="600">B2C focused</text>
 
-  <text x="812" y="178" fill="#58323F" font-family="Georgia, 'Times New Roman', serif" font-size="22" font-weight="700">Building things</text>
-  <text x="812" y="202" fill="#58323F" font-family="Georgia, 'Times New Roman', serif" font-size="22" font-weight="700">with shape.</text>
-  <text x="812" y="224" fill="#7A495C" font-family="'Trebuchet MS', Arial, sans-serif" font-size="15">
-    Product sense, technical depth, and a taste for
-  </text>
-  <text x="812" y="245" fill="#7A495C" font-family="'Trebuchet MS', Arial, sans-serif" font-size="15">
-    interfaces that feel human instead of generic.
-  </text>
+  <text x="866" y="172" text-anchor="middle" fill="#5C3140" font-family="'Trebuchet MS', Arial, sans-serif" font-size="15" font-weight="600">agentic-workflows</text>
+  <text x="1038" y="172" text-anchor="middle" fill="#5C3140" font-family="'Trebuchet MS', Arial, sans-serif" font-size="15" font-weight="600">community</text>
+  <text x="852" y="221" text-anchor="middle" fill="#5C3140" font-family="'Trebuchet MS', Arial, sans-serif" font-size="15" font-weight="600">AI-products</text>
+  <text x="1017" y="221" text-anchor="middle" fill="#5C3140" font-family="'Trebuchet MS', Arial, sans-serif" font-size="15" font-weight="600">social-platforms</text>
+  <text x="876" y="269" text-anchor="middle" fill="#5C3140" font-family="'Trebuchet MS', Arial, sans-serif" font-size="15" font-weight="600">virtual-worlds</text>
+  <text x="1033" y="269" text-anchor="middle" fill="#5C3140" font-family="'Trebuchet MS', Arial, sans-serif" font-size="15" font-weight="600">creator-tools</text>
 
   <path d="M44 266H688" stroke="#D7A7B7" stroke-width="1.5" stroke-linecap="round" stroke-opacity="0.82"/>
   <circle cx="716" cy="266" r="6" fill="#C88399"/>
