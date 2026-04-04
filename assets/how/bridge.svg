@@ -8,13 +8,13 @@
     </linearGradient>
   </defs>
   <rect x="10" y="10" width="160" height="160" rx="34" fill="url(#bg)" stroke="#E1B8C8" stroke-width="2"/>
-  <rect x="28" y="118" width="28" height="28" rx="8" fill="#F3D0DE"/>
-  <rect x="124" y="118" width="28" height="28" rx="8" fill="#F3D0DE"/>
-  <path d="M42 118C42 84 66 64 90 64C114 64 138 84 138 118" stroke="#B77899" stroke-width="6" stroke-linecap="round"/>
-  <path d="M42 118H138" stroke="#7A4A5D" stroke-width="6" stroke-linecap="round"/>
-  <path d="M60 118V88" stroke="#D39BB4" stroke-width="4" stroke-linecap="round"/>
-  <path d="M90 118V72" stroke="#D39BB4" stroke-width="4" stroke-linecap="round"/>
-  <path d="M120 118V88" stroke="#D39BB4" stroke-width="4" stroke-linecap="round"/>
-  <circle cx="42" cy="118" r="6" fill="#7A4A5D"/>
-  <circle cx="138" cy="118" r="6" fill="#7A4A5D"/>
+  <rect x="28" y="108" width="28" height="28" rx="8" fill="#F3D0DE"/>
+  <rect x="124" y="108" width="28" height="28" rx="8" fill="#F3D0DE"/>
+  <path d="M42 108C42 74 66 54 90 54C114 54 138 74 138 108" stroke="#B77899" stroke-width="6" stroke-linecap="round"/>
+  <path d="M42 108H138" stroke="#7A4A5D" stroke-width="6" stroke-linecap="round"/>
+  <path d="M60 108V78" stroke="#D39BB4" stroke-width="4" stroke-linecap="round"/>
+  <path d="M90 108V62" stroke="#D39BB4" stroke-width="4" stroke-linecap="round"/>
+  <path d="M120 108V78" stroke="#D39BB4" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="42" cy="108" r="6" fill="#7A4A5D"/>
+  <circle cx="138" cy="108" r="6" fill="#7A4A5D"/>
 </svg>
