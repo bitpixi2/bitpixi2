@@ -30,7 +30,7 @@ Senior UX Designer & Prompt Engineer. RISD/Tufts alum with 10+ years across UX, 
 
 ## Selected Work
 
-<table>
+<table align="center" width="92%">
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/bitpixi2/Dyscalculia-Calculator"><img src="./assets/projects/dyscalculia-card.svg" alt="Dyscalculia Calculator project card" width="100%" /></a><br/>
