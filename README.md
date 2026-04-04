@@ -131,6 +131,27 @@ Senior UX Designer & Prompt Engineer. RISD/Tufts alum with 10+ years across UX, 
 
 <table>
   <tr>
+    <td align="center" width="25%">
+      <img src="./assets/how/shape.svg" alt="Shape icon" width="120" /><br/>
+      <strong>shape</strong>
+    </td>
+    <td align="center" width="25%">
+      <img src="./assets/how/bridge.svg" alt="Bridge icon" width="120" /><br/>
+      <strong>bridge</strong>
+    </td>
+    <td align="center" width="25%">
+      <img src="./assets/how/maps.svg" alt="Maps icon" width="120" /><br/>
+      <strong>maps</strong>
+    </td>
+    <td align="center" width="25%">
+      <img src="./assets/how/spark.svg" alt="Spark icon" width="120" /><br/>
+      <strong>spark</strong>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
     <td><code>~ shape</code></td>
     <td>intentional interfaces over generic ones</td>
   </tr>

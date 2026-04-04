@@ -1,0 +1,18 @@
+<svg width="180" height="180" viewBox="0 0 180 180" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Maps icon</title>
+  <desc id="desc">A folded map with route marks representing documentation and orientation in uncertain systems.</desc>
+  <defs>
+    <linearGradient id="bg" x1="22" y1="18" x2="158" y2="162" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFF9F7"/>
+      <stop offset="1" stop-color="#F5E0D7"/>
+    </linearGradient>
+  </defs>
+  <rect x="10" y="10" width="160" height="160" rx="34" fill="url(#bg)" stroke="#E3B9C5" stroke-width="2"/>
+  <path d="M42 54L74 42L106 54L138 42V126L106 138L74 126L42 138V54Z" fill="#FFFDFC" stroke="#D9B0AC" stroke-width="2"/>
+  <path d="M74 42V126" stroke="#E7CAC1" stroke-width="2"/>
+  <path d="M106 54V138" stroke="#E7CAC1" stroke-width="2"/>
+  <path d="M58 108C70 78 98 72 116 98" stroke="#C58A8F" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="58" cy="108" r="6" fill="#C58A8F"/>
+  <circle cx="116" cy="98" r="6" fill="#C58A8F"/>
+  <circle cx="88" cy="82" r="5" fill="#F2D1C8"/>
+</svg>
