@@ -13,7 +13,7 @@
 I like making things that are useful, expressive, social, and a little unexpected.
 
 <p align="center">
-  <img src="./assets/stickers/sticker-row.svg" alt="Cute sticker row showing focus areas like AI, social platforms, worlds, community, and tools." width="760" />
+  <img src="./assets/stickers/sticker-row.svg" alt="Cute focus stickers for AI, worlds, community, and new econ." width="720" />
 </p>
 
 <table>
@@ -35,7 +35,7 @@ I like making things that are useful, expressive, social, and a little unexpecte
   </tr>
   <tr>
     <td><code>~ focus</code></td>
-    <td><code>B2C product</code> <code>AI</code> <code>social platforms</code> <code>virtual worlds</code> <code>community experiences</code></td>
+    <td><code>AI</code> <code>worlds</code> <code>community</code> <code>new econ</code></td>
   </tr>
 </table>
 
@@ -47,15 +47,28 @@ If you're here from recruiting, the fastest scan is: selected work, how I work, 
 
 ## Best Fit
 
-```text
-+------------------------------- best fit --------------------------------+
-| [01] frontend and product engineering                                  |
-| [02] B2C AI and creator-facing products                                |
-| [03] social, community, and event-oriented platform work               |
-| [04] creative technology and virtual world experiences                 |
-| [05] rapid prototyping and documentation-heavy systems work            |
-+------------------------------------------------------------------------+
-```
+<table>
+  <tr>
+    <td><code>~ roles</code></td>
+    <td>frontend and product engineering</td>
+  </tr>
+  <tr>
+    <td><code>~ products</code></td>
+    <td>B2C AI and creator-facing products</td>
+  </tr>
+  <tr>
+    <td><code>~ community</code></td>
+    <td>social, community, and event-oriented platform work</td>
+  </tr>
+  <tr>
+    <td><code>~ worlds</code></td>
+    <td>creative technology and virtual world experiences</td>
+  </tr>
+  <tr>
+    <td><code>~ execution</code></td>
+    <td>rapid prototyping and documentation-heavy systems work</td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="./assets/dividers/rose-divider.svg" alt="Decorative rose divider." width="680" />
@@ -72,7 +85,7 @@ If you're here from recruiting, the fastest scan is: selected work, how I work, 
       <sub>JavaScript · accessibility · consumer UX</sub>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/bitpixi2/openlabel-sk20-linux-hack"><img src="./assets/projects/openlabel-sk20.jpg" alt="OpenLabel SK20 printer" width="100%" /></a><br/>
+      <a href="https://github.com/bitpixi2/openlabel-sk20-linux-hack"><img src="./assets/projects/openlabel-card.svg" alt="OpenLabel SK20 Linux project card" width="100%" /></a><br/>
       <strong><a href="https://github.com/bitpixi2/openlabel-sk20-linux-hack">openlabel-sk20-linux-hack</a></strong><br/>
       Linux compatibility work for a thermal printer, including CUPS integration, BLE provisioning, and protocol documentation.<br/>
       <sub>Python · systems debugging · device interoperability</sub>
@@ -80,7 +93,7 @@ If you're here from recruiting, the fastest scan is: selected work, how I work, 
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/bitpixi2/phosphor"><img src="./assets/projects/phosphor-gallery.png" alt="Phosphor gallery screenshot" width="100%" /></a><br/>
+      <a href="https://github.com/bitpixi2/phosphor"><img src="./assets/projects/phosphor-card.svg" alt="Phosphor project card" width="100%" /></a><br/>
       <strong><a href="https://github.com/bitpixi2/phosphor">phosphor</a></strong><br/>
       An ongoing gallery and diary project around AI art, identity, and creative process.<br/>
       <sub>HTML · creative coding · narrative product design</sub>
@@ -94,13 +107,13 @@ If you're here from recruiting, the fastest scan is: selected work, how I work, 
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/bitpixi2/deviantclaw"><img src="./assets/projects/deviantclaw-homepage.png" alt="DeviantClaw homepage screenshot" width="100%" /></a><br/>
+      <a href="https://github.com/bitpixi2/deviantclaw"><img src="./assets/projects/deviantclaw-card.svg" alt="DeviantClaw project card" width="100%" /></a><br/>
       <strong><a href="https://github.com/bitpixi2/deviantclaw">deviantclaw</a></strong><br/>
       A speculative gallery platform where AI artists, character worlds, and crypto-native storytelling meet.<br/>
       <sub>JavaScript · creative product design · worldbuilding</sub>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/bitpixi2/get-a-job"><img src="./assets/projects/get-a-job.png" alt="Get a Job screenshot" width="100%" /></a><br/>
+      <a href="https://github.com/bitpixi2/get-a-job"><img src="./assets/projects/get-a-job-card.svg" alt="Get a Job project card" width="100%" /></a><br/>
       <strong><a href="https://github.com/bitpixi2/get-a-job">get-a-job</a></strong><br/>
       An agentic job-seeking skill focused on helping people structure search, materials, and execution.<br/>
       <sub>career tooling · product strategy · practical automation</sub>
@@ -128,14 +141,24 @@ If you're here from recruiting, the fastest scan is: selected work, how I work, 
 
 ## How I Work
 
-```text
-+------------------------------ how i work -------------------------------+
-| [shape] intentional interfaces over generic ones                       |
-| [bridge] strongest where design, engineering, and experiments overlap  |
-| [maps] document aggressively when systems get uncertain or messy       |
-| [spark] interested in tools that reduce friction and increase agency   |
-+------------------------------------------------------------------------+
-```
+<table>
+  <tr>
+    <td><code>~ shape</code></td>
+    <td>intentional interfaces over generic ones</td>
+  </tr>
+  <tr>
+    <td><code>~ bridge</code></td>
+    <td>strongest where design, engineering, and experimentation overlap</td>
+  </tr>
+  <tr>
+    <td><code>~ maps</code></td>
+    <td>document aggressively when systems get uncertain or messy</td>
+  </tr>
+  <tr>
+    <td><code>~ spark</code></td>
+    <td>interested in tools that reduce friction and increase agency</td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="./assets/dividers/rose-divider.svg" alt="Decorative rose divider." width="680" />
@@ -143,14 +166,24 @@ If you're here from recruiting, the fastest scan is: selected work, how I work, 
 
 ## Current Threads
 
-```text
-+---------------------------- current threads ----------------------------+
-| [ai] B2C AI and creator products                                       |
-| [social] platforms, online communities, and event support              |
-| [worlds] interactive storytelling and speculative interfaces           |
-| [tools] creative tooling and experimental product ideas                |
-+------------------------------------------------------------------------+
-```
+<table>
+  <tr>
+    <td><code>~ ai</code></td>
+    <td>B2C AI and creator products</td>
+  </tr>
+  <tr>
+    <td><code>~ worlds</code></td>
+    <td>interactive storytelling and speculative interfaces</td>
+  </tr>
+  <tr>
+    <td><code>~ community</code></td>
+    <td>social systems, online participation, and event support</td>
+  </tr>
+  <tr>
+    <td><code>~ new econ</code></td>
+    <td>inventing new ways to pay and structure digital value</td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="./assets/dividers/rose-divider.svg" alt="Decorative rose divider." width="680" />

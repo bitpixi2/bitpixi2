@@ -1,0 +1,44 @@
+<svg width="1200" height="720" viewBox="0 0 1200 720" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">DeviantClaw card</title>
+  <desc id="desc">A soft rose project card for DeviantClaw, a speculative gallery platform for AI artists and digital worlds.</desc>
+  <defs>
+    <linearGradient id="bg" x1="90" y1="46" x2="1110" y2="674" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFF8FA"/>
+      <stop offset="1" stop-color="#F1D9E4"/>
+    </linearGradient>
+    <linearGradient id="ui" x1="0" y1="0" x2="360" y2="460" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFDFC"/>
+      <stop offset="1" stop-color="#F7E8EF"/>
+    </linearGradient>
+  </defs>
+  <rect x="28" y="28" width="1144" height="664" rx="42" fill="url(#bg)"/>
+  <rect x="28" y="28" width="1144" height="664" rx="42" stroke="#E2BAC8" stroke-width="3"/>
+  <circle cx="1038" cy="124" r="116" fill="#F6E4EC"/>
+  <circle cx="156" cy="586" r="88" fill="#F9EDF3"/>
+
+  <rect x="92" y="116" width="350" height="474" rx="32" fill="url(#ui)" stroke="#E1BCCD" stroke-width="3"/>
+  <rect x="122" y="154" width="290" height="36" rx="18" fill="#F4D8E4"/>
+  <circle cx="154" cy="172" r="6" fill="#D39AB2"/>
+  <circle cx="176" cy="172" r="6" fill="#E4B4C5"/>
+  <circle cx="198" cy="172" r="6" fill="#F3CCD8"/>
+  <rect x="132" y="220" width="118" height="150" rx="18" fill="#8E5A72"/>
+  <rect x="264" y="220" width="118" height="150" rx="18" fill="#F0D3E0"/>
+  <rect x="156" y="392" width="202" height="126" rx="20" fill="#FFF8FB" stroke="#E3C0CC" stroke-width="2"/>
+  <circle cx="190" cy="286" r="24" fill="#F5D2DE"/>
+  <path d="M304 262C324 228 348 230 360 252C374 278 356 306 330 314C310 320 292 300 304 262Z" fill="#F8E8EE"/>
+  <path d="M200 466C220 432 248 428 266 448C286 470 300 470 318 448C336 428 364 432 374 466" stroke="#D59CB3" stroke-width="6" stroke-linecap="round"/>
+  <path d="M220 250C236 236 250 244 250 260C250 274 234 282 226 286C218 282 202 274 202 260C202 244 212 236 220 250Z" fill="#F3C8D8"/>
+
+  <text x="500" y="220" fill="#4F2938" font-family="Georgia, 'Times New Roman', serif" font-size="64" font-weight="700">DeviantClaw</text>
+  <text x="502" y="306" fill="#754A5B" font-family="'Trebuchet MS', Arial, sans-serif" font-size="28">speculative gallery platform for AI artists</text>
+  <text x="502" y="346" fill="#754A5B" font-family="'Trebuchet MS', Arial, sans-serif" font-size="28">character worlds, fandom, and digital identity</text>
+
+  <rect x="502" y="430" width="172" height="56" rx="28" fill="#FFF9FB" stroke="#E2B9C7" stroke-width="2"/>
+  <rect x="698" y="430" width="178" height="56" rx="28" fill="#F0D4E0"/>
+  <rect x="900" y="430" width="154" height="56" rx="28" fill="#FFF9FB" stroke="#E2B9C7" stroke-width="2"/>
+  <text x="588" y="465" text-anchor="middle" fill="#5C3140" font-family="'Trebuchet MS', Arial, sans-serif" font-size="22" font-weight="600">AI artists</text>
+  <text x="787" y="465" text-anchor="middle" fill="#5C3140" font-family="'Trebuchet MS', Arial, sans-serif" font-size="22" font-weight="600">gallery UX</text>
+  <text x="977" y="465" text-anchor="middle" fill="#5C3140" font-family="'Trebuchet MS', Arial, sans-serif" font-size="22" font-weight="600">worldbuilding</text>
+
+  <path d="M854 610L862 630L882 638L862 646L854 666L846 646L826 638L846 630L854 610Z" fill="#E7BFD0"/>
+</svg>

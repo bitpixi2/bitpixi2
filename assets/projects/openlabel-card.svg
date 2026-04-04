@@ -1,0 +1,46 @@
+<svg width="1200" height="720" viewBox="0 0 1200 720" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">OpenLabel SK20 Linux card</title>
+  <desc id="desc">A soft rose project card for Linux compatibility work on the OpenLabel SK20 thermal printer.</desc>
+  <defs>
+    <linearGradient id="bg" x1="90" y1="44" x2="1110" y2="676" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFF8F8"/>
+      <stop offset="1" stop-color="#F4DDD4"/>
+    </linearGradient>
+    <linearGradient id="panel" x1="0" y1="0" x2="360" y2="460" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFDFC"/>
+      <stop offset="1" stop-color="#F8ECE6"/>
+    </linearGradient>
+  </defs>
+  <rect x="28" y="28" width="1144" height="664" rx="42" fill="url(#bg)"/>
+  <rect x="28" y="28" width="1144" height="664" rx="42" stroke="#E4C2B7" stroke-width="3"/>
+  <circle cx="1038" cy="128" r="116" fill="#F8E8E1"/>
+  <circle cx="158" cy="586" r="88" fill="#FBF0EA"/>
+
+  <rect x="92" y="116" width="350" height="474" rx="32" fill="url(#panel)" stroke="#E3C3B7" stroke-width="3"/>
+  <rect x="126" y="206" width="282" height="220" rx="28" fill="#F3DDD4"/>
+  <rect x="154" y="176" width="226" height="66" rx="18" fill="#FFF6F2" stroke="#E3C3B7" stroke-width="2"/>
+  <rect x="184" y="430" width="166" height="110" rx="14" fill="#FFFDFC" stroke="#D6AAA4" stroke-width="2"/>
+  <path d="M210 462H322" stroke="#D7B2AD" stroke-width="3" stroke-linecap="round"/>
+  <path d="M210 488H322" stroke="#D7B2AD" stroke-width="3" stroke-linecap="round"/>
+  <path d="M210 514H294" stroke="#D7B2AD" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="370" cy="276" r="24" fill="#FFF7F4"/>
+  <circle cx="370" cy="338" r="24" fill="#FFF7F4"/>
+  <path d="M358 276C366 268 374 268 382 276" stroke="#815556" stroke-width="3" stroke-linecap="round"/>
+  <path d="M354 286C366 298 374 298 386 286" stroke="#815556" stroke-width="3" stroke-linecap="round"/>
+  <path d="M360 330C368 322 372 322 380 330" stroke="#815556" stroke-width="3" stroke-linecap="round"/>
+  <path d="M354 340C366 352 374 352 386 340" stroke="#815556" stroke-width="3" stroke-linecap="round"/>
+
+  <text x="500" y="220" fill="#503033" font-family="Georgia, 'Times New Roman', serif" font-size="62" font-weight="700">OpenLabel</text>
+  <text x="500" y="282" fill="#503033" font-family="Georgia, 'Times New Roman', serif" font-size="62" font-weight="700">SK20 Linux</text>
+  <text x="502" y="344" fill="#775255" font-family="'Trebuchet MS', Arial, sans-serif" font-size="28">thermal printer interoperability</text>
+  <text x="502" y="384" fill="#775255" font-family="'Trebuchet MS', Arial, sans-serif" font-size="28">CUPS, Bluetooth, BLE, and protocol work</text>
+
+  <rect x="502" y="452" width="144" height="56" rx="28" fill="#FFF9F8" stroke="#E2C4BA" stroke-width="2"/>
+  <rect x="668" y="452" width="136" height="56" rx="28" fill="#F2D4CB"/>
+  <rect x="826" y="452" width="176" height="56" rx="28" fill="#FFF9F8" stroke="#E2C4BA" stroke-width="2"/>
+  <text x="574" y="487" text-anchor="middle" fill="#5C3639" font-family="'Trebuchet MS', Arial, sans-serif" font-size="22" font-weight="600">Python</text>
+  <text x="736" y="487" text-anchor="middle" fill="#5C3639" font-family="'Trebuchet MS', Arial, sans-serif" font-size="22" font-weight="600">CUPS</text>
+  <text x="914" y="487" text-anchor="middle" fill="#5C3639" font-family="'Trebuchet MS', Arial, sans-serif" font-size="22" font-weight="600">device interop</text>
+
+  <path d="M878 608L886 628L906 636L886 644L878 664L870 644L850 636L870 628L878 608Z" fill="#E6C0C0"/>
+</svg>

@@ -1,0 +1,43 @@
+<svg width="1200" height="720" viewBox="0 0 1200 720" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Phosphor card</title>
+  <desc id="desc">A soft rose art-card for phosphor, an AI gallery and diary project.</desc>
+  <defs>
+    <linearGradient id="bg" x1="96" y1="48" x2="1106" y2="676" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFF8FB"/>
+      <stop offset="1" stop-color="#EFD7E6"/>
+    </linearGradient>
+    <linearGradient id="wall" x1="0" y1="0" x2="360" y2="460" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFDFD"/>
+      <stop offset="1" stop-color="#F8E8EF"/>
+    </linearGradient>
+  </defs>
+  <rect x="28" y="28" width="1144" height="664" rx="42" fill="url(#bg)"/>
+  <rect x="28" y="28" width="1144" height="664" rx="42" stroke="#E2BACB" stroke-width="3"/>
+  <circle cx="1032" cy="128" r="112" fill="#F6E4EE"/>
+  <circle cx="164" cy="590" r="90" fill="#F9EEF4"/>
+
+  <rect x="92" y="116" width="350" height="474" rx="32" fill="url(#wall)" stroke="#E2BCCD" stroke-width="3"/>
+  <rect x="130" y="162" width="122" height="170" rx="18" fill="#F3D9E5"/>
+  <rect x="148" y="180" width="86" height="134" rx="12" fill="#8A5D73"/>
+  <circle cx="191" cy="246" r="28" fill="#EAC3D2"/>
+  <path d="M162 286C176 260 208 260 220 286" stroke="#F8E6EE" stroke-width="5" stroke-linecap="round"/>
+  <rect x="280" y="186" width="116" height="146" rx="18" fill="#F7E8EF"/>
+  <path d="M304 300C330 244 362 224 372 204C376 226 360 262 334 294C322 308 312 318 304 324" fill="#D49DB5"/>
+  <circle cx="362" cy="244" r="8" fill="#FFF9FB"/>
+  <rect x="152" y="382" width="236" height="128" rx="20" fill="#FFF7FA" stroke="#E6C5D1" stroke-width="2"/>
+  <path d="M182 446C206 418 230 414 252 436C270 454 290 456 316 430C336 410 352 404 368 410" stroke="#D199B1" stroke-width="6" stroke-linecap="round"/>
+  <circle cx="336" cy="424" r="14" fill="#F3CDDA"/>
+
+  <text x="500" y="220" fill="#502C39" font-family="Georgia, 'Times New Roman', serif" font-size="66" font-weight="700">phosphor</text>
+  <text x="502" y="306" fill="#775062" font-family="'Trebuchet MS', Arial, sans-serif" font-size="28">AI gallery, diary, and worldbuilding practice</text>
+  <text x="502" y="346" fill="#775062" font-family="'Trebuchet MS', Arial, sans-serif" font-size="28">identity, process, and narrative product design</text>
+
+  <rect x="502" y="430" width="158" height="56" rx="28" fill="#FFF9FB" stroke="#E2B9C8" stroke-width="2"/>
+  <rect x="684" y="430" width="164" height="56" rx="28" fill="#F2D7E3"/>
+  <rect x="872" y="430" width="208" height="56" rx="28" fill="#FFF9FB" stroke="#E2B9C8" stroke-width="2"/>
+  <text x="581" y="465" text-anchor="middle" fill="#5D3344" font-family="'Trebuchet MS', Arial, sans-serif" font-size="22" font-weight="600">AI art</text>
+  <text x="766" y="465" text-anchor="middle" fill="#5D3344" font-family="'Trebuchet MS', Arial, sans-serif" font-size="22" font-weight="600">gallery</text>
+  <text x="976" y="465" text-anchor="middle" fill="#5D3344" font-family="'Trebuchet MS', Arial, sans-serif" font-size="22" font-weight="600">narrative product</text>
+
+  <path d="M870 598C884 576 916 584 920 612C924 644 886 666 870 676C856 666 818 644 822 612C826 584 856 576 870 598Z" fill="#EFC8D8"/>
+</svg>
