@@ -1,0 +1,55 @@
+<svg width="1200" height="720" viewBox="0 0 1200 720" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Dyscalculia Calculator card</title>
+  <desc id="desc">A soft rose project card for the Dyscalculia Calculator with a stylized calculator and friendly finance motifs.</desc>
+  <defs>
+    <linearGradient id="bg" x1="90" y1="54" x2="1110" y2="666" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFF9FB"/>
+      <stop offset="1" stop-color="#F2D7E2"/>
+    </linearGradient>
+    <linearGradient id="panel" x1="0" y1="0" x2="360" y2="420" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFDFD"/>
+      <stop offset="1" stop-color="#F8E6ED"/>
+    </linearGradient>
+  </defs>
+  <rect x="28" y="28" width="1144" height="664" rx="42" fill="url(#bg)"/>
+  <rect x="28" y="28" width="1144" height="664" rx="42" stroke="#E3B9C7" stroke-width="3"/>
+  <circle cx="1002" cy="134" r="112" fill="#F7E6EC"/>
+  <circle cx="1046" cy="188" r="70" fill="#F0D3DD"/>
+  <circle cx="146" cy="560" r="84" fill="#F6E8ED"/>
+
+  <rect x="86" y="118" width="338" height="450" rx="34" fill="url(#panel)" stroke="#E0B8C5" stroke-width="3"/>
+  <rect x="126" y="156" width="258" height="92" rx="22" fill="#F7EDF1"/>
+  <text x="154" y="213" fill="#7A4A5D" font-family="'Trebuchet MS', Arial, sans-serif" font-size="54" font-weight="700">12.50</text>
+
+  <rect x="126" y="284" width="70" height="70" rx="18" fill="#F3D5E0"/>
+  <rect x="220" y="284" width="70" height="70" rx="18" fill="#F8E8EE"/>
+  <rect x="314" y="284" width="70" height="70" rx="18" fill="#F3D5E0"/>
+  <rect x="126" y="378" width="70" height="70" rx="18" fill="#F8E8EE"/>
+  <rect x="220" y="378" width="70" height="70" rx="18" fill="#F3D5E0"/>
+  <rect x="314" y="378" width="70" height="70" rx="18" fill="#F8E8EE"/>
+  <rect x="126" y="472" width="164" height="56" rx="18" fill="#F3D5E0"/>
+  <rect x="314" y="472" width="70" height="56" rx="18" fill="#EFC0D1"/>
+
+  <text x="151" y="329" fill="#7A4A5D" font-family="'Trebuchet MS', Arial, sans-serif" font-size="28" font-weight="700">1</text>
+  <text x="245" y="329" fill="#7A4A5D" font-family="'Trebuchet MS', Arial, sans-serif" font-size="28" font-weight="700">2</text>
+  <text x="339" y="329" fill="#7A4A5D" font-family="'Trebuchet MS', Arial, sans-serif" font-size="28" font-weight="700">3</text>
+  <text x="151" y="423" fill="#7A4A5D" font-family="'Trebuchet MS', Arial, sans-serif" font-size="28" font-weight="700">4</text>
+  <text x="245" y="423" fill="#7A4A5D" font-family="'Trebuchet MS', Arial, sans-serif" font-size="28" font-weight="700">5</text>
+  <text x="339" y="423" fill="#7A4A5D" font-family="'Trebuchet MS', Arial, sans-serif" font-size="28" font-weight="700">6</text>
+  <text x="191" y="510" fill="#7A4A5D" font-family="'Trebuchet MS', Arial, sans-serif" font-size="28" font-weight="700">clear</text>
+  <text x="341" y="510" fill="#7A4A5D" font-family="'Trebuchet MS', Arial, sans-serif" font-size="28" font-weight="700">=</text>
+
+  <text x="500" y="224" fill="#4F2938" font-family="Georgia, 'Times New Roman', serif" font-size="64" font-weight="700">Dyscalculia</text>
+  <text x="500" y="288" fill="#4F2938" font-family="Georgia, 'Times New Roman', serif" font-size="64" font-weight="700">Calculator</text>
+  <text x="502" y="352" fill="#75485A" font-family="'Trebuchet MS', Arial, sans-serif" font-size="28">financial support tooling</text>
+  <text x="502" y="392" fill="#75485A" font-family="'Trebuchet MS', Arial, sans-serif" font-size="28">designed for lower numeric friction</text>
+
+  <rect x="502" y="458" width="196" height="56" rx="28" fill="#FFF9FB" stroke="#E2B8C5" stroke-width="2"/>
+  <rect x="720" y="458" width="154" height="56" rx="28" fill="#F3D6E0"/>
+  <rect x="894" y="458" width="182" height="56" rx="28" fill="#FFF9FB" stroke="#E2B8C5" stroke-width="2"/>
+  <text x="600" y="493" text-anchor="middle" fill="#5C3140" font-family="'Trebuchet MS', Arial, sans-serif" font-size="22" font-weight="600">consumer UX</text>
+  <text x="797" y="493" text-anchor="middle" fill="#5C3140" font-family="'Trebuchet MS', Arial, sans-serif" font-size="22" font-weight="600">clarity</text>
+  <text x="985" y="493" text-anchor="middle" fill="#5C3140" font-family="'Trebuchet MS', Arial, sans-serif" font-size="22" font-weight="600">accessible math</text>
+
+  <path d="M692 612C720 582 768 604 768 642C768 684 711 720 692 730C673 720 616 684 616 642C616 604 664 582 692 612Z" fill="#F2C8D6"/>
+</svg>

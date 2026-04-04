@@ -1,0 +1,52 @@
+<svg width="1200" height="720" viewBox="0 0 1200 720" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Decision Balance Sheet card</title>
+  <desc id="desc">A soft rose project card for a decision balance sheet tool with a checklist and balancing motifs.</desc>
+  <defs>
+    <linearGradient id="bg" x1="120" y1="50" x2="1090" y2="680" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFF9FA"/>
+      <stop offset="1" stop-color="#F3DDD3"/>
+    </linearGradient>
+    <linearGradient id="paper" x1="0" y1="0" x2="360" y2="440" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFDFC"/>
+      <stop offset="1" stop-color="#F8ECE6"/>
+    </linearGradient>
+  </defs>
+  <rect x="28" y="28" width="1144" height="664" rx="42" fill="url(#bg)"/>
+  <rect x="28" y="28" width="1144" height="664" rx="42" stroke="#E3C1B6" stroke-width="3"/>
+  <circle cx="1020" cy="116" r="110" fill="#F7E8E0"/>
+  <circle cx="170" cy="594" r="92" fill="#FAEEE7"/>
+
+  <rect x="92" y="112" width="348" height="470" rx="28" fill="url(#paper)" stroke="#E4C3B8" stroke-width="3"/>
+  <rect x="124" y="150" width="284" height="28" rx="14" fill="#F4DDD5"/>
+  <rect x="124" y="214" width="252" height="18" rx="9" fill="#F4E7E2"/>
+  <rect x="124" y="280" width="252" height="18" rx="9" fill="#F4E7E2"/>
+  <rect x="124" y="346" width="252" height="18" rx="9" fill="#F4E7E2"/>
+  <rect x="124" y="412" width="252" height="18" rx="9" fill="#F4E7E2"/>
+  <circle cx="148" cy="223" r="16" fill="#F2D1C8"/>
+  <circle cx="148" cy="289" r="16" fill="#F9EEE8"/>
+  <circle cx="148" cy="355" r="16" fill="#F2D1C8"/>
+  <circle cx="148" cy="421" r="16" fill="#F9EEE8"/>
+  <path d="M141 223L147 229L158 215" stroke="#79504D" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M141 355L147 361L158 347" stroke="#79504D" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <path d="M308 538H224" stroke="#8C5B5A" stroke-width="8" stroke-linecap="round"/>
+  <path d="M266 442V538" stroke="#8C5B5A" stroke-width="8" stroke-linecap="round"/>
+  <path d="M224 538L190 588" stroke="#C88D93" stroke-width="6" stroke-linecap="round"/>
+  <path d="M308 538L342 588" stroke="#C88D93" stroke-width="6" stroke-linecap="round"/>
+  <path d="M210 588H170C178 620 206 634 224 634C242 634 270 620 278 588H238" fill="#F2D2CB"/>
+  <path d="M294 588H254C262 620 290 634 308 634C326 634 354 620 362 588H322" fill="#F7E8E2"/>
+
+  <text x="500" y="224" fill="#4F2F32" font-family="Georgia, 'Times New Roman', serif" font-size="64" font-weight="700">Decision</text>
+  <text x="500" y="288" fill="#4F2F32" font-family="Georgia, 'Times New Roman', serif" font-size="64" font-weight="700">Balance Sheet</text>
+  <text x="502" y="350" fill="#765255" font-family="'Trebuchet MS', Arial, sans-serif" font-size="28">decision support worksheets</text>
+  <text x="502" y="390" fill="#765255" font-family="'Trebuchet MS', Arial, sans-serif" font-size="28">for clearer choices and less overwhelm</text>
+
+  <rect x="502" y="458" width="178" height="56" rx="28" fill="#FFF9F8" stroke="#E2C4BA" stroke-width="2"/>
+  <rect x="700" y="458" width="202" height="56" rx="28" fill="#F2D2CB"/>
+  <rect x="924" y="458" width="154" height="56" rx="28" fill="#FFF9F8" stroke="#E2C4BA" stroke-width="2"/>
+  <text x="591" y="493" text-anchor="middle" fill="#5C3639" font-family="'Trebuchet MS', Arial, sans-serif" font-size="22" font-weight="600">mental health</text>
+  <text x="801" y="493" text-anchor="middle" fill="#5C3639" font-family="'Trebuchet MS', Arial, sans-serif" font-size="22" font-weight="600">worksheet tooling</text>
+  <text x="1001" y="493" text-anchor="middle" fill="#5C3639" font-family="'Trebuchet MS', Arial, sans-serif" font-size="22" font-weight="600">clarity</text>
+
+  <path d="M840 612L848 632L868 640L848 648L840 668L832 648L812 640L832 632L840 612Z" fill="#E8BDC1"/>
+</svg>

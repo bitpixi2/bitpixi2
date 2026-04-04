@@ -1,0 +1,12 @@
+<svg width="980" height="56" viewBox="0 0 980 56" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">rose divider</title>
+  <desc id="desc">A decorative rose-toned divider with sparkles and a heart.</desc>
+  <path d="M40 28H410" stroke="#D7A7B7" stroke-width="2" stroke-linecap="round"/>
+  <path d="M570 28H940" stroke="#D7A7B7" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="490" cy="28" r="10" fill="#F3D6E1" stroke="#D6A3B5" stroke-width="2"/>
+  <path d="M490 21C494.5 16 502 19.5 502 26C502 33 493 39 490 41C487 39 478 33 478 26C478 19.5 485.5 16 490 21Z" fill="#C97E98"/>
+  <path d="M444 18L447 25L454 28L447 31L444 38L441 31L434 28L441 25L444 18Z" fill="#E5B8C8"/>
+  <path d="M536 18L539 25L546 28L539 31L536 38L533 31L526 28L533 25L536 18Z" fill="#E5B8C8"/>
+  <circle cx="392" cy="28" r="4" fill="#E7BDCB"/>
+  <circle cx="588" cy="28" r="4" fill="#E7BDCB"/>
+</svg>

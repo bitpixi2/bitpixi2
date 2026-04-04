@@ -1,0 +1,42 @@
+<svg width="1200" height="720" viewBox="0 0 1200 720" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Bizniz Quest Ask card</title>
+  <desc id="desc">A playful project card for Bizniz Quest Ask, a playable social game experience distributed through Reddit.</desc>
+  <defs>
+    <linearGradient id="bg" x1="100" y1="44" x2="1100" y2="680" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFF9F7"/>
+      <stop offset="1" stop-color="#F4DED0"/>
+    </linearGradient>
+    <linearGradient id="map" x1="0" y1="0" x2="340" y2="450" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFDFC"/>
+      <stop offset="1" stop-color="#FAECE2"/>
+    </linearGradient>
+  </defs>
+  <rect x="28" y="28" width="1144" height="664" rx="42" fill="url(#bg)"/>
+  <rect x="28" y="28" width="1144" height="664" rx="42" stroke="#E3C2B7" stroke-width="3"/>
+  <circle cx="1048" cy="122" r="112" fill="#F8EBE3"/>
+  <circle cx="154" cy="584" r="86" fill="#FAEEE7"/>
+
+  <rect x="90" y="116" width="354" height="474" rx="32" fill="url(#map)" stroke="#E4C4B8" stroke-width="3"/>
+  <circle cx="160" cy="210" r="24" fill="#F2D0C8"/>
+  <circle cx="270" cy="168" r="22" fill="#F8E7E1"/>
+  <circle cx="350" cy="260" r="24" fill="#F2D0C8"/>
+  <circle cx="208" cy="346" r="24" fill="#F8E7E1"/>
+  <circle cx="338" cy="430" r="24" fill="#F2D0C8"/>
+  <path d="M160 210L270 168L350 260L208 346L338 430" stroke="#C58B8D" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="10 14"/>
+  <rect x="120" y="486" width="294" height="64" rx="20" fill="#F5DFD7"/>
+  <text x="267" y="525" text-anchor="middle" fill="#5E3A3C" font-family="'Trebuchet MS', Arial, sans-serif" font-size="24" font-weight="700">playable on Reddit</text>
+
+  <text x="490" y="220" fill="#513134" font-family="Georgia, 'Times New Roman', serif" font-size="62" font-weight="700">Bizniz Quest</text>
+  <text x="490" y="282" fill="#513134" font-family="Georgia, 'Times New Roman', serif" font-size="62" font-weight="700">Ask</text>
+  <text x="492" y="344" fill="#775457" font-family="'Trebuchet MS', Arial, sans-serif" font-size="28">a social product disguised as a game</text>
+  <text x="492" y="384" fill="#775457" font-family="'Trebuchet MS', Arial, sans-serif" font-size="28">networking, quests, and public participation</text>
+
+  <rect x="492" y="452" width="130" height="56" rx="28" fill="#FFF9F8" stroke="#E2C4BA" stroke-width="2"/>
+  <rect x="644" y="452" width="168" height="56" rx="28" fill="#F1D6CB"/>
+  <rect x="834" y="452" width="212" height="56" rx="28" fill="#FFF9F8" stroke="#E2C4BA" stroke-width="2"/>
+  <text x="557" y="487" text-anchor="middle" fill="#5C3639" font-family="'Trebuchet MS', Arial, sans-serif" font-size="22" font-weight="600">Reddit</text>
+  <text x="728" y="487" text-anchor="middle" fill="#5C3639" font-family="'Trebuchet MS', Arial, sans-serif" font-size="22" font-weight="600">playable</text>
+  <text x="940" y="487" text-anchor="middle" fill="#5C3639" font-family="'Trebuchet MS', Arial, sans-serif" font-size="22" font-weight="600">social game loop</text>
+
+  <path d="M896 612L904 632L924 640L904 648L896 668L888 648L868 640L888 632L896 612Z" fill="#E7BEC1"/>
+</svg>
