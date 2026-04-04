@@ -4,7 +4,7 @@
 
 ## Kasey Robinson aka "bitpixi"
 
-Senior UX Designer & Prompt Engineer. RISD/Tufts alum with 10+ years across UX, machine learning, and emerging platforms. Scaled Gfycat from 80M to 180M+ MAU, earned 3 AR patents acquired by Snap, and shipped the top-revenue feature for Meitu (450M+ MAU). US citizen based near Melbourne, Australia.
+Senior UX Designer & Prompt Engineer (RISD/Tufts) with 10+ years across UX Design and weird/emerging internet things -> scaled Gfycat from 80M -> 180M+ MAU later acquired by Snap (+3 AR patents), shipped top-revenue features at Meitu (450M+ MAU), and worked on early metaverse platforms, most notably Voxels, contributing to their highest sales month; now based near Melbourne, Australia. This GitHub is basically my builder brain in public -> a scratchpad of experiments, agentic ideas, half-finished adventures, and things I needed to get out of my head, so not representative of how I ship in teams or production; think sketchbook, not case study. Also, [github.com/bitpixi](https://github.com/bitpixi) is me too, but I lost access (password + domain), so this is the active account.
 
 <table align="center" width="92%">
   <tr>
