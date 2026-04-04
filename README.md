@@ -2,7 +2,7 @@
   <img src="./assets/banner.svg" alt="bitpixi profile banner" width="100%" />
 </p>
 
-## Kasey Robinson aka "bitpixi" fairy
+## Kasey Robinson aka "bitpixi"
 
 Senior UX Designer & Prompt Engineer. RISD/Tufts alum with 10+ years across UX, machine learning, and emerging platforms. Scaled Gfycat from 80M to 180M+ MAU, earned 3 AR patents acquired by Snap, and shipped the top-revenue feature for Meitu (450M+ MAU). US citizen based near Melbourne, Australia.
 
@@ -23,11 +23,11 @@ Senior UX Designer & Prompt Engineer. RISD/Tufts alum with 10+ years across UX, 
     <td><code>~ linkedin</code></td>
     <td><a href="https://linkedin.com/in/bitpixi">linkedin.com/in/bitpixi</a></td>
   </tr>
-  <tr>
-    <td><code>~ focus</code></td>
-    <td><code>AI</code> <code>worlds</code> <code>community</code> <code>new econ</code></td>
-  </tr>
 </table>
+
+<p align="center">
+  <img src="./assets/stickers/sticker-row.svg" alt="Cute focus stickers for agentic systems, worlds, community, and new econ." width="500" />
+</p>
 
 <p align="center">
   <img src="./assets/dividers/rose-divider.svg" alt="Decorative rose divider." width="680" />
@@ -128,10 +128,6 @@ Senior UX Designer & Prompt Engineer. RISD/Tufts alum with 10+ years across UX, 
 </p>
 
 ## How I Work
-
-<p align="center">
-  <img src="./assets/stickers/sticker-row.svg" alt="Cute focus stickers for agentic systems, worlds, community, and new econ." width="500" />
-</p>
 
 <table>
   <tr>
