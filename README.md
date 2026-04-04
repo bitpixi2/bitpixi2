@@ -4,21 +4,24 @@
 
 ## bitpixi
 
-Creative technologist building accessible products, AI tools, and experimental interfaces.
+Creative technologist building B2C products across AI, social media, virtual worlds, and experimental interfaces.
 
-I like making things that are useful, expressive, and a little unexpected.
+I like making things that are useful, expressive, social, and a little unexpected.
 
 - Based in Riddells Creek, Australia
+- Company: [Hackeroos](https://hackeroos.com.au)
 - Website: [bitpixi.com](https://bitpixi.com)
-- Focus: `frontend` `full-stack product` `creative technology` `AI-assisted tools` `accessibility`
+- LinkedIn: [linkedin.com/in/bitpixi](https://linkedin.com/in/bitpixi)
+- Focus: `B2C product` `AI` `social platforms` `virtual worlds` `community experiences`
 
 If you're here from recruiting, the fastest scan is: selected work, how I work, then links.
 
 ## Best Fit
 
 - Frontend and product engineering roles
-- Creative technology and AI-native interface work
-- Accessibility-minded consumer or education products
+- B2C AI and creator-facing products
+- Social, community, and event-oriented platform work
+- Creative technology and virtual world experiences
 - Rapid prototyping, documentation-heavy systems work, and strange product ideas that still need to ship
 
 ## Selected Work
@@ -71,14 +74,16 @@ If you're here from recruiting, the fastest scan is: selected work, how I work, 
 
 ## Current Threads
 
-- Accessible and dyscalculia-friendly user experiences
-- Agent-native products and interfaces
-- Creative tooling and playful web experiences
-- Linux and hardware interoperability work
+- B2C AI and creator products
+- Social platforms and online community experiences
+- Virtual worlds, interactive storytelling, and speculative interfaces
+- Creative tooling, product experiments, and event support
 
 ## Links
 
+- Company: [hackeroos.com.au](https://hackeroos.com.au)
 - Website: [bitpixi.com](https://bitpixi.com)
+- LinkedIn: [linkedin.com/in/bitpixi](https://linkedin.com/in/bitpixi)
 - GitHub: [github.com/bitpixi2](https://github.com/bitpixi2)
 - X: [@bitpixi](https://x.com/bitpixi)
 
