@@ -2,9 +2,9 @@
   <img src="./assets/banner.svg" alt="bitpixi profile banner" width="100%" />
 </p>
 
-## bitpixi
+## Kasey Robinson aka "bitpixi" fairy
 
-I like making things that are useful, expressive, social, and a little unexpected.
+Senior UX Designer & Prompt Engineer. RISD/Tufts alum with 10+ years across UX, machine learning, and emerging platforms. Scaled Gfycat from 80M to 180M+ MAU, earned 3 AR patents acquired by Snap, and shipped the top-revenue feature for Meitu (450M+ MAU). US citizen based near Melbourne, Australia.
 
 <table>
   <tr>
@@ -87,18 +87,18 @@ I like making things that are useful, expressive, social, and a little unexpecte
       <sub>Python · care tooling · decision support</sub>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/bitpixi2/phosphor"><img src="./assets/projects/phosphor-card.svg" alt="Phosphor project card" width="100%" /></a><br/>
-      <strong><a href="https://github.com/bitpixi2/phosphor">phosphor</a></strong><br/>
-      An AI gallery and diary exploring identity, authorship, and worldbuilding through product form.<br/>
-      <sub>HTML · creative product · storytelling</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
       <a href="https://github.com/bitpixi2/deviantclaw"><img src="./assets/projects/deviantclaw-card.svg" alt="DeviantClaw project card" width="100%" /></a><br/>
       <strong><a href="https://github.com/bitpixi2/deviantclaw">deviantclaw</a></strong><br/>
       A community gallery product for AI artists, character identities, and internet-native worlds.<br/>
       <sub>JavaScript · community product · worldbuilding</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/bitpixi2/phosphor"><img src="./assets/projects/phosphor-card.svg" alt="Phosphor project card" width="100%" /></a><br/>
+      <strong><a href="https://github.com/bitpixi2/phosphor">phosphor</a></strong><br/>
+      An AI gallery and diary exploring identity, authorship, and worldbuilding through product form.<br/>
+      <sub>HTML · creative product · storytelling</sub>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/bitpixi2/get-a-job"><img src="./assets/projects/get-a-job-card.svg" alt="Get a Job project card" width="100%" /></a><br/>
