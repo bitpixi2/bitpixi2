@@ -33,8 +33,6 @@ I like making things that are useful, expressive, social, and a little unexpecte
   <img src="./assets/dividers/rose-divider.svg" alt="Decorative rose divider." width="680" />
 </p>
 
-If you're here from recruiting, the fastest scan is: selected work, how I work, then links.
-
 ## Best Fit
 
 <table>
