@@ -28,35 +28,6 @@ Senior UX Designer & Prompt Engineer. RISD/Tufts alum with 10+ years across UX, 
   <img src="./assets/dividers/rose-divider.svg" alt="Decorative rose divider." width="680" />
 </p>
 
-## Best Fit
-
-<table>
-  <tr>
-    <td><code>~ roles</code></td>
-    <td>frontend and product engineering</td>
-  </tr>
-  <tr>
-    <td><code>~ products</code></td>
-    <td>B2C AI and creator-facing products</td>
-  </tr>
-  <tr>
-    <td><code>~ community</code></td>
-    <td>social, community, and event-oriented platform work</td>
-  </tr>
-  <tr>
-    <td><code>~ worlds</code></td>
-    <td>creative technology and virtual world experiences</td>
-  </tr>
-  <tr>
-    <td><code>~ execution</code></td>
-    <td>rapid prototyping and documentation-heavy systems work</td>
-  </tr>
-</table>
-
-<p align="center">
-  <img src="./assets/dividers/rose-divider.svg" alt="Decorative rose divider." width="680" />
-</p>
-
 ## Selected Work
 
 <table>
