@@ -90,18 +90,18 @@ Senior UX Designer & Prompt Engineer (RISD/Tufts) with 10+ years across UX Desig
       <sub>JavaScript · Solidity · NFT worldbuilding</sub>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/bitpixi2/FieldMate"><img src="./assets/projects/fieldmate-card.svg" alt="FieldMate project card" width="100%" /></a><br/>
-      <strong><a href="https://github.com/bitpixi2/FieldMate">FieldMate</a></strong><br/>
-      Resident-assisted grid-edge capture for safer, fresher property-level energy data and rewards.<br/>
-      <sub>HTML · energy UX · MCP prototype</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
       <a href="https://github.com/bitpixi2/normies-button"><img src="./assets/projects/normies-button-card.svg" alt="Normies Button project card" width="100%" /></a><br/>
       <strong><a href="https://github.com/bitpixi2/normies-button">Normies Button</a></strong><br/>
       A live multiplayer timing game where Normies Types compete across shared rounds.<br/>
       <sub>TypeScript · multiplayer game · hackathon</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/bitpixi2/FieldMate"><img src="./assets/projects/fieldmate-card.svg" alt="FieldMate project card" width="100%" /></a><br/>
+      <strong><a href="https://github.com/bitpixi2/FieldMate">FieldMate</a></strong><br/>
+      Resident-assisted grid-edge capture for safer, fresher property-level energy data and rewards.<br/>
+      <sub>HTML · energy UX · MCP prototype</sub>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/bitpixi2/four-rooms-research-lab"><img src="./assets/projects/four-rooms-card.svg" alt="Four Rooms Research Lab project card" width="100%" /></a><br/>
