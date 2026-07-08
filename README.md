@@ -84,16 +84,16 @@ Senior UX Designer & Prompt Engineer (RISD/Tufts) with 10+ years across UX Desig
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/bitpixi2/FieldMate"><img src="./assets/projects/fieldmate-card.svg" alt="FieldMate project card" width="100%" /></a><br/>
-      <strong><a href="https://github.com/bitpixi2/FieldMate">FieldMate</a></strong><br/>
-      Resident-assisted grid-edge capture for safer, fresher property-level energy data and rewards.<br/>
-      <sub>HTML · energy UX · MCP prototype</sub>
-    </td>
-    <td width="50%" valign="top">
       <a href="https://github.com/bitpixi2/scribblies"><img src="./assets/projects/scribblies-card.svg" alt="Scribblies project card" width="100%" /></a><br/>
       <strong><a href="https://github.com/bitpixi2/scribblies">Scribblies</a></strong><br/>
       A Normies derivative with generated profiles, sketchbook drawing, and Base minting.<br/>
       <sub>JavaScript · Solidity · NFT worldbuilding</sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/bitpixi2/FieldMate"><img src="./assets/projects/fieldmate-card.svg" alt="FieldMate project card" width="100%" /></a><br/>
+      <strong><a href="https://github.com/bitpixi2/FieldMate">FieldMate</a></strong><br/>
+      Resident-assisted grid-edge capture for safer, fresher property-level energy data and rewards.<br/>
+      <sub>HTML · energy UX · MCP prototype</sub>
     </td>
   </tr>
   <tr>
